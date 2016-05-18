@@ -1,0 +1,337 @@
+/*
+Theme Name: DarkElements
+Theme URI: http://www.guidovanderleest.nl/darkelements
+Version: 4.2
+Author: Guido van der Leest
+Author URI: http://www.guidovanderleest.nl
+Description: DarkElements is a free, clean, minimalistic, responsive, mobile friendly WordPress theme. Features: sidebar on left side, navigation on left side, widget areas in footer, custom header image, custom background, custom logo to replace blogname and description. Enjoy.
+Tags: two-columns, left-sidebar, fixed-layout, responsive-layout, custom-background, custom-header, custom-menu, featured-images, post-formats, dark, gray, editor-style, translation-ready
+License: GNU General Public License v3 or later
+License URI: http://www.gnu.org/licenses/gpl-3.0.html
+Text Domain: darkelements
+
+DarkElements, Copyright 2014, Guido van der Leest
+DarkElements is licensed under the GPL
+*/
+
+
+/*
+RESET STYLESHEET
+Source: http://meyerweb.com/eric/tools/css/reset
+Author: Eric Meyer
+Author URI: http://meyerweb.com/
+License: none (public domain)
+*/
+
+.button-title {
+    border: none;
+    padding: 3px 6px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    border-radius: 12px;
+    vertical-align: bottom;
+    float: right;
+    margin-right: 8%;
+}
+
+
+html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code, del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed, figure, figcaption, footer, header, hgroup,
+menu, nav, output, ruby, section, summary, time, mark, audio, video {
+	margin:0;
+	padding:0;
+	border:0;
+	font-family:inherit;
+	font-size:100%;
+	font-style:inherit;
+	font-weight:inherit;
+	vertical-align:baseline;
+}
+
+article, aside, details, figcaption, figure, footer, header, hgroup, main, menu, nav, section {
+	display:block;
+}
+
+body {
+	line-height:1;
+}
+
+ol, ul {
+	list-style:none;
+}
+
+blockquote, q {
+	quotes:none;
+}
+
+blockquote:before, blockquote:after, q:before, q:after {
+	content:'';
+	content:none;
+}
+
+table {
+	border-collapse:collapse;
+	border-spacing:0;
+}
+
+
+/* BODY AND CONTAINER */
+body {background:#333; font-family:'Open Sans', sans-serif; font-size:0.9em; color:#ddd; line-height:1.5em; text-align:left; word-wrap:break-word;}
+#container {max-width:1000px; float:left; background:none; margin:20px 0 20px 20px;}
+
+
+/* MAIN CONTENT AREA */
+#content {width:68%; float:right; padding:20px 2%; background:#333 url('http://www.carolsingershire.uk/wp-content/themes/darkelements/images/back.png'); opacity:0.9; filter:alpha(opacity=90);}
+
+
+/* HEADINGS */
+h1 {font-size:2.25em; line-height:1.5em;}
+h2 {font-size:2.0em; line-height:2em;}
+h3 {font-size:1.75em; line-height:2em;}
+h4 {font-size:1.5em; line-height:2em;}
+h5 {font-size:1.25em; line-height:2.5em;}
+h6 {font-size:1.0em; line-height:2.5em;}
+
+
+/* LINKS AND HTML TAGS */
+a {text-decoration:none; color:#aaa;}
+a:hover {color:#e77776;}
+
+strong, b {font-weight:bold;}
+small {font-size:0.75em;}
+big {font-size:1.25em;}
+sub {vertical-align:sub; font-size:0.9em;}
+sup {vertical-align:super; font-size:0.9em;}
+ins, mark {font-weight:bold; background:none; text-decoration:none; color:#e77776;}
+cite, em, abbr, acronym {font-style:italic;}
+code, kbd, samp, var {font-family:monospace, monospace;}
+pre {margin:10px 0; padding:5px 10px; white-space:pre-wrap; border:1px solid #444;}
+blockquote, q {margin:10px 0; padding:0 0 0 20px; display:block; font-size:1.2em; line-height:1.5em; font-style:italic; border-left:2px solid #ddd;}
+address {margin:10px 0; font-size:1.2em; line-height:1.5em; font-style:italic;}
+p {margin:0 0 10px;}
+
+
+/* TABLE AND LISTS */
+table {margin:10px 0; border-collapse:collapse;}
+table, th, td {border:1px solid #444; padding:5px 10px;}
+table th {font-weight:bold;}
+
+ul {list-style:square; margin:5px 0 5px 0;}
+ol {list-style:decimal; margin:5px 0 5px 0;}
+li {margin:0 0 0 20px;}
+dl {margin:10px 0;}
+dt {font-weight:bold;}
+dd {margin:0 0 0 20px;}
+
+
+/* INPUTS */
+input, select, textarea {-webkit-appearance:none; -moz-appearance:none; border:1px solid #444; padding:2px 5px; background:none; color:#ddd; font-size:1em; font-family:'Open Sans', sans-serif; border-radius:5px;}
+input[type="submit"], input[type="reset"], input[type="button"] {cursor:pointer; border:0; padding:2px 5px; background:#ddd; color:#333;}
+input[type="submit"]:hover, input[type="reset"]:hover, input[type="button"]:hover {background:#e77776; color:#ddd;}
+input[type="checkbox"] {-webkit-appearance:checkbox; -moz-appearance:checkbox;}
+input[type="radio"] {-webkit-appearance:radio; -moz-appearance:radio;}
+select {max-width:100%; -webkit-appearance:menulist; -moz-appearance:menulist;}
+
+
+/* HEADER */
+#header {width:22%; float:left; padding:20px 2% 30px; background:#333 url('http://www.carolsingershire.uk/wp-content/themes/darkelements/images/back.png'); border-bottom-left-radius:50px; border-bottom-right-radius:50px; opacity:0.9; filter:alpha(opacity=90);}
+
+
+/* HEADER LOGO */
+#header .logo {width:100%; text-align:center; padding:0 0 20px;}
+#header .logo h2 {padding:5px 0; font-size:1.25em; line-height:1.5em;}
+#header .logo img {padding:10px 0 0;}
+
+
+/* HEADER IMAGE */
+#header-image {width:68%; float:right; margin:0 0 20px; padding:20px 2% 15px; background:#333 url('http://www.carolsingershire.uk/wp-content/themes/darkelements/images/back.png'); opacity:0.9; filter:alpha(opacity=90);}
+#header-image .header-img {width:100%; height:auto;}
+
+
+/* HEADER IMAGE MOBILE */
+#header-image-mobile {display:none;}
+
+
+/* HEADER MENU */
+.nav-head {width:100%; clear:both; float:left; padding:5px 0;}
+.nav-head select {display:none;}
+.nav-head ul {padding:0; margin:0; z-index:999; list-style:none;}
+.nav-head ul li {list-style-type: none; position:relative; padding:0; margin:0;}
+.nav-head ul li a {text-decoration:none; padding:5px 0; display:inline-block; width:100%; border-bottom:1px solid #444;}
+.nav-head .current_page_item > a, .nav-head .current_page_parent > a {color:#e77776;}
+
+
+/* HEADER SUBMENU */
+.nav-head ul ul a {width:95%; margin:0 0 0 5%;}
+.nav-head ul ul ul a {width:90%; margin:0 0 0 10%;}
+
+
+/* PAGE */
+.page-title {clear:both; padding:0 0 10px; line-height:1.5em;}
+.archive-description {display:block; font-style:italic;}
+.pagelink {clear:both; display:block; margin:20px 0 10px;}
+
+
+/* POST */
+.post-list {width:100%; clear:both; float:left;}
+.post-title {clear:both; line-height:1.5em;}
+.post-title-single {clear:both; line-height:1.5em;}
+.sticky-title {clear:both; display:block; text-align:center; margin:0 0 10px; padding:2px 0; border-top:1px solid #444; border-bottom:1px solid #444; line-height:1.5em;}
+.postmetadata {clear:both; display:block; margin:20px 0; padding:2px 0; border-top:1px solid #444; border-bottom:1px solid #444;}
+.more {width:100%; clear:both; display:block; float:left; margin:20px 0; padding:0 0 20px; border-bottom:1px solid #444;}
+a.readmore {float:right; text-decoration:none; padding:2px 5px; background:#ddd; color:#333; border-radius:5px;}
+a.readmore:hover {background:#e77776; color:#ddd; text-decoration:none;}
+
+
+/* POST FORMATS */
+.format-aside .post-title, .format-status .post-title, .format-image .post-title, .format-video .post-title, .format-gallery .post-title, .format-audio .post-title {font-size:1.5em;}
+.format-aside .post-title-single, .format-status .post-title-single, .format-image .post-title-single, .format-video .post-title-single, .format-gallery .post-title-single, .format-audio .post-title-single {font-size:1.5em;}
+.format-image .postmetadata, .format-video .postmetadata, .format-gallery .postmetadata, .format-audio .postmetadata {font-style:italic;}
+.format-status .avatar {width:96px; float:left; margin:0.4em 1em 0.4em 0;}
+
+
+/* POST NAV */
+.post-nav {width:100%; clear:both; float:left; display:block;}
+.nav-prev {float:left; padding:5px 0;}
+.nav-next {float:right; padding:5px 0;}
+
+
+/* EDIT LINK */
+.edit-link {clear:both; display:block; text-align:center; margin:10px 0; padding:2px 5px; border:1px solid #444; border-radius:5px;}
+.edit-link a {color:#e77776;}
+.edit-link a:hover {color:#ddd;}
+
+
+/* IMAGE AND VIDEO */
+embed, iframe, object, video {max-width:100%;}
+img {max-width:100%; height:auto;}
+
+img.alignright {float:right; margin:0.4em 0 0.4em 1em;}
+img.alignleft {float:left; margin:0.4em 1em 0.4em 0;}
+img.aligncenter {display:block; margin:0.4em auto 0.4em auto;}
+.alignright {float:right; margin:0.4em 0 0.4em 1em;}
+.alignleft {float:left; margin:0.4em 1em 0.4em 0;}
+.aligncenter {display:block; margin:0.4em auto 0.4em auto;}
+
+.wp-post-image, .single-image {float:left; margin:0.4em 1em 0.4em 0;}
+
+.wp-caption {max-width:100%;}
+.wp-caption-text {text-align:center;}
+
+.gallery img {border:0 !important;}
+.gallery dl, .gallery dt, .gallery dd {margin:0; padding:0;}
+.gallery-caption {max-width:100%; text-align:center;}
+
+
+/* SEARCHFORM */
+.search-form {padding:10px 0;}
+.search-field {width:50%; margin:0 5px 0 0;}
+.search-form .screen-reader-text {display:none;}
+
+
+/* COMMENTS */
+#comments {width:100%; clear:both; float:left;}
+.comment-list {background:none; border:1px solid #444; border-radius:5px; font-weight:normal; margin:20px 0; padding:0 20px 0 10px;}
+.comment-list ol {list-style:none;}
+.comment-list li {list-style:none; margin:0 0 0 10px;}
+.comment-body {border-left:1px solid #ddd; padding:0 0 0 15px; margin:20px 0;}
+.comment-notes, .form-allowed-tags {font-size:0.75em; padding:5px 0;}
+.comments-title, .comment-reply-title, .no-comments {clear:both; font-size:1.5em;}
+.comment-author .avatar {margin:0 5px 0 0;}
+.bypostauthor, .comment-awaiting-moderation {font-style:italic;}
+
+#respond {width:100%; clear:both;}
+.comment-form label {padding:0 0 5px; display:block;}
+.comment-form input, .comment-form textarea {width:80%;}
+.comment-form input[type="submit"] {width:auto;}
+
+
+/* COMMENT NAV */
+.comment-nav {width:100%; clear:both; float:left; display:block;}
+.comment-prev {float:left; padding:5px 0;}
+.comment-next {float:right; padding:5px 0;}
+
+
+/* SIDEBAR AND WIDGETS */
+#sidebar {width:100%; float:left;}
+.widget {padding:10px 0; margin:0 0 10px; background:none;}
+.widgettitle, .nav-widgettitle {color:#ddd; padding:0 0 5px; margin:0 0 10px; border-bottom:1px solid #444; font-size:1.5em; line-height:1.5em;}
+
+
+/* CALENDAR WIDGET */
+#wp-calendar th, #wp-calendar td {padding:5px;}
+
+
+/* MENU WIDGET */
+#sidebar .sub-menu li {margin:0 0 0 10px;}
+
+
+/* FOOTER */
+#footer {width:68%; float:right; padding:0 2%; margin:20px 0 0; background:#333 url('http://www.carolsingershire.uk/wp-content/themes/darkelements/images/back.png'); color:#ddd; opacity:0.9; filter:alpha(opacity=90);}
+#footer .site-info {clear:both; text-align:center; padding:10px 0;}
+
+
+/* FOOTER WIDGET AREA */
+#footer-widgets {width:100%; clear:both; float:right;}
+
+#footer .widget {padding:0; margin:10px 0 0;}
+
+.footer-left {float:left; width:31%; margin:10px 0 0 0;}
+.footer-middle {float:left; width:31%; margin:10px 3.5%;}
+.footer-right {float:right; width:31%; margin:10px 0 0 0;}
+
+
+/* Tablet */
+@media screen and (min-width:768px) and (max-width:1024px) {
+	/* BODY AND CONTAINER */
+	#container {margin:20px auto 20px;}
+}
+
+
+/* MOBILE */
+@media screen and (max-width:767px) {
+	/* BODY AND CONTAINER */
+	body {font-size:1em; line-height:1.2em;}
+	body.custom-background {background-image:none !important;}
+	#container {width:96%; padding:10px 2%; margin:0 auto 0; background:#333 url('http://www.carolsingershire.uk/wp-content/themes/darkelements/images/back.png');}
+
+	/* MAIN CONTENT AREA */
+	#content {width:100%; padding:10px 0; background:none;}
+
+	/* HEADER */
+	#header {width:100%; padding:0; background:none;}
+	#header .logo {padding:10px 0;}
+	#header .logo h1 {font-size:2em;}
+	#header .logo h2 {padding:0; font-size:1.5em;}
+	#header-image {display:none;}
+	#header-image-mobile {display:block; width:100%; float:left; background:none;}
+	#header-image-mobile .header-img {width:100%; height:auto;}
+
+	/* MENU */
+	.nav-head ul {display:none;}
+	.nav-head {padding:0 0 10px;}
+	.nav-head select {display:block; width:100%; height:35px; margin:0 auto 0; font-size:1em; line-height:1.2em; color:#333; background:#ddd; border:0;}
+
+	/* CONTENT */
+	.postmetadata {margin:10px 0;}
+
+	/* HEADINGS */
+	.post-title, .page-title, .post-title-single {font-size:1.75em;}
+	.widgettitle, .comments-title, .comment-reply-title, .no-comments {font-size:1.5em;}
+
+	/* IMAGES */
+	.wp-post-image, .single-image {width:50%; margin:0.3em 0.5em 0.3em 0;}
+
+	/* SIDEBAR */
+	.widget {padding:5px 0; margin:0 0 5px;}
+	.nav-widgettitle {display:none;}
+
+	/* FOOTER */
+	#footer {width:100%; padding:0; margin:0; float:left; background:none;}
+	#footer .widget {padding:5px 0; margin:0 0 5px;}
+	.footer-right, .footer-middle, .footer-left {width:100%; margin:0; float:left;}
+}
