@@ -1,1 +1,0 @@
-Multisite support not enabled
