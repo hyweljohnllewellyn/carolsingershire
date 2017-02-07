@@ -27,7 +27,7 @@ div.innerright { display:none;  }
 div.innertab { left:0px; top:0px; right:0px; bottom:42px; }
 
 /* PLAYLIST */
-.ul-mjp { margin:0px !important; padding:3px 3px 4px 3px !important; list-style-type:none !important; list-style:none !important; list-style-image:none !important; }
+.ul-mjp { margin:0px !important; padding:3px 8px 4px 8px !important; list-style-type:none !important; list-style:none !important; list-style-image:none !important; }
 .li-mjp { margin:0px !important; padding:0px 0px 1px 0px !important; letter-spacing:0px !important; word-spacing:0px !important; margin:0px 1px 0px 1px !important; list-style-type:none !important; clear: both; }
 .li-mjp:before { content:none !important; }
 .a-mjp {
@@ -45,11 +45,7 @@ div.innertab { left:0px; top:0px; right:0px; bottom:42px; }
 	padding-top:5px;
 	font-size:0.7em;
 }
-
-.mjp_ext_li {
-	padding: 0 10px;
-}
-
+	
 /* SCREEN  */			
 	div.player-track-title { position:absolute; z-index:125; }
 	div.player-track-title div { position:relative; }
@@ -456,7 +452,7 @@ ul.darken2-mjp {
 ul.light-mjp li	{ background:url('https://www.carolsingershire.uk/wp-content/plugins/mp3-jplayer/css/images/t60w.png') repeat-x left bottom; }
 ul.med-mjp li 	{ background:url('https://www.carolsingershire.uk/wp-content/plugins/mp3-jplayer/css/images/t50l.png') repeat-x left bottom; }
 ul.dark-mjp li 	{ background:url('https://www.carolsingershire.uk/wp-content/plugins/mp3-jplayer/css/images/t50g.png') repeat-x left bottom; }
-li.mjp-li-last { background-image:none !important; }
+li.mjp-li-last { background:none !important; }
 
 
 /* ===== posbar grads ===== */
