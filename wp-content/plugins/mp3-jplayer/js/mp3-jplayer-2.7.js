@@ -1,6 +1,6 @@
 /* 
 	MP3-jPlayer
-	Version 2.5
+	Version 2.7.2
    	http://mp3-jplayer.com
 */
 var MP3_JPLAYER = {
@@ -87,6 +87,7 @@ var MP3_JPLAYER = {
 		dload: 		'#download_mp3j_',
 		plwrap: 	'#L_mp3j_',
 		ul:			'#UL_mp3j_',
+		li:			'li_mp3j_', //No hash!
 		a:			'mp3j_A_', //No hash!
 		indiM:		'#statusMI_',
 		toglist:	'#playlist-toggle_',
@@ -525,10 +526,10 @@ var MP3_JPLAYER = {
 				
 				var liClass = '';
 				var l = p.list.length;
-				jQuery(this.eID.ul + j).empty();
+				jQuery(this.eID.ul + j).empty(); 
 				for (i = 0; i < l; i += 1) {
 					liClass = ( i === l-1 ) ? ' mjp-li-last' : '';
-					li = '<li class="li-mjp' + liClass + '"><a class="a-mjp" href="#" id="' + this.eID.a + j + '_' + i + '">';
+					li = '<li class="li-mjp' + liClass + '" id="' + this.eID.li + j + '_' + i + '"><a class="a-mjp" href="#" id="' + this.eID.a + j + '_' + i + '">';
 					li += p.list[i].name;
 					if ( this.hasListMeta && p.list[i].artist !== '' ) {
 						li += '<br><span>' + p.list[i].artist + '</span>';
@@ -542,6 +543,7 @@ var MP3_JPLAYER = {
 					this.add_ul_click(j, i);
 				}
 				jQuery('#' + this.eID.a + j + '_' + p.tr).addClass('mp3j_A_current');
+				jQuery('#' + this.eID.li + j + '_' + p.tr).addClass('mp3j_LI_current');
 				jQuery(this.eID.toglist + j).click(function () {
 					that.togglelist(j);
 				});
@@ -845,7 +847,9 @@ var MP3_JPLAYER = {
 	
 	listclass: function ( j, rem, add ) {
 		jQuery('#'+ this.eID.a + j +'_'+ rem).removeClass('mp3j_A_current');
+		jQuery('#'+ this.eID.li + j +'_'+ rem).removeClass('mp3j_LI_current');
 		jQuery('#'+ this.eID.a + j +'_'+ add).addClass('mp3j_A_current');
+		jQuery('#'+ this.eID.li + j +'_'+ add).addClass('mp3j_LI_current');
 	},
 	
 	titles: function ( j, track ) {
