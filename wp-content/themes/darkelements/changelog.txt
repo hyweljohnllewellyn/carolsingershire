@@ -1,0 +1,167 @@
+CHANGELOG
+=========
+
+DarkElements version 4.9 - january 2017
+- some logical changes in class elements
+- files style, header and nav: changed .nav-head info .nav-primary
+- files style and header: changed .nav-head-title into .nav-primary-title
+- added support for hentry tags
+- updated files content-postmeta, content-list and single
+- file style: improved comments display
+- file custom-editor-style: removed theme colors (because theme can be customized)
+- several small adjustments
+
+DarkElements version 4.8 - october 2016
+- some logical changes in div and class elements
+- files style and header: changed #header into #sidebar
+- files style and sidebar: changed #sidebar into #sidebar-widgets
+- files style and header: changed .nav-widgettitle into .nav-head-title
+- several small adjustments
+- new screenshot
+
+DarkElements version 4.7 - august 2016
+- file functions: translation fix
+
+DarkElements version 4.6 - august 2016
+- file content-postmeta-single: display post format too
+- updated text strings
+- several small adjustments
+
+DarkElements version 4.5 - august 2016
+- cleanup: removed unnecessary white space from several files
+- file style: removed unnecessary id tags from several strings
+- file style: updated mobile stylesheet
+- file style and custom-editor-style: several small adjustments
+- file functions: updated feature for html5 support in ie 8 and older
+- new screenshot
+
+DarkElements version 4.4 - june 2016
+- files style and custom-editor-style: resized all headings (including line-height)
+- file style: removed line-height from several elements
+
+DarkElements version 4.3 - may 2016
+- added file content-none 
+- files 404, archive, index and search: relocated nothing found to separate file
+- updated file index
+- renamed both postmetadata files
+- several small adjustments
+
+DarkElements version 4.2 - may 2016
+- theme now supports post formats
+- file header: updated head section
+- added file content-list 
+- files archive, index and search: relocated part of loop to separate file
+- file index en css: changed featured post notice
+- file single: changed .page-title-post into .post-title-single
+- changed .sticky into .sticky-title
+- several small adjustments
+
+DarkElements version 4.0 - april 2016
+- resized all headings (thanks Tom)
+- changed address tag display
+- several small adjustments
+
+DarkElements version 3.9 - march 2016
+- localized mobile menu
+- mobile menu now supports 2 level subpages
+
+DarkElements version 3.8 - march 2016
+- added file postmeta-single
+- file single: relocated postmetadata to separate file
+- bugfix in file custom-editor-style: removed tags from reset stylesheet
+- seo improvement: blog description is h2 (thanks Tom)
+- seo improvement: all page titles are h1 and all post titles are h2 (thanks Tom)
+- seo improvement: all widget titles are h3 (thanks Tom)
+- file single: changed title class into .page-title-post
+- updated readme file to WordPress default
+- file style: removed -moz-border-radius because not supported anymore
+
+DarkElements version 3.7 - march 2016
+- added file postmeta
+- files archive, index, search and single: relocated postmetadata to separate file
+- file style and custom-editor-style: updated html tags (thanks Tom)
+- updated text strings (thanks Tom)
+- several small adjustments
+
+DarkElements version 3.6 - february 2016
+- theme customizer: change menu title
+- file search: post nav inside the loop
+- file style: fixed alignment of next and prev post link
+- several small adjustments
+
+DarkElements version 3.4 - january 2016
+- file header: removed is_home so homepage content is not displayed when using a static blog page
+- several small adjustments
+
+DarkElements version 3.3 - january 2016
+- updated file style
+- updated file custom-editor-style
+- updated file functions
+
+DarkElements version 3.2 - december 2015
+- bugfix: included the register_default_headers again because it did not work without
+
+DarkElements version 3.1 - december 2015
+- file functions: removed register_default_headers (default header already included in after_setup_theme)
+- several files: updated postmetadata
+- file style: several modifications
+- several small adjustments
+- updated pot file
+
+DarkElements version 3.0 - november 2015
+- updated archive.php (added the_archive_title and the_archive_description)
+- updated pot file
+- removed translations (to support language packs from wordpress.org)
+- several small adjustments
+
+DarkElements version 2.7 - september 2015
+- updated file comments
+- updated pagelink
+- file footer: copyrights
+- file archive and index: added pagetitle when no posts are found
+- changed postmetadata heading into div
+- removed background color from post and page editor
+- reordered mobile stylesheet
+- added Swedish translation (thanks Stefan)
+- updated language files
+- several small adjustments
+
+DarkElements version 2.5 - june 2015
+- file page and single: fixed closing div
+- file single: removed if statement 
+- file functions, comments and style: changed alignment of comment nav
+- reordered file style
+- updated file readme
+
+DarkElements version 2.4 - april 2015
+- several small adjustment in stylesheet
+- removed support for document title in older WP versions 
+- files index and archive: pagination inside loop
+
+DarkElements version 2.3 - february 2015
+- added Spanish translation (thanks Miquel)
+- added German translation (thanks Frank)
+- updated French translation (thanks Ollie)
+- file style: adjusted styling comments area
+- file style: added support in Chrome for Checkbox, Radio and Select
+- file style and file custom-editor-style: finetuned img position in post and page
+- file style: reordered mobile stylesheet
+- file functions: removed class excerpt because not used anymore
+- file functions: added class to posts nav (now no empty space when posts nav is not present)
+- removed default background image because not fully supported in Theme Customizer 
+
+DarkElements version 2.2 - december 2014
+- file header: removed wp_title because of new title-tag
+- file functions: added backwards compatibility for WP 4.0 and older
+- reordered file nav
+
+DarkElements version 2.1 - december 2014
+- file functions: added title-tag
+- updated the reset stylesheet
+- fixed width of footer widgets
+- adjusted styling of several tags
+- reordered and cleaned up files style and custom-editor-style
+- reordered php files
+
+DarkElements version 1.9 - november 2014 
+- first stable release

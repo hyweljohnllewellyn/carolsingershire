@@ -1,0 +1,58 @@
+
+------------------------------------------------------------
+* MP3-jPlayer 2.0
+* How To Force Downloads on Remote Files
+------------------------------------------------------------
+
+This page explains the option field called 'Path to remote downloader files' which is under the 'Downloads' options on the player settings page
+
+NOTE 1: If all of your files are on the same domain as this plugin then you don't need this option! You can leave it blank.
+ 
+
+USAGE
+-------
+
+With default settings the plugin is ticked to try and force browsrs into saving downloads when the file is on the same domain as the plugin. Using the additional 'Path to remote downloader files' option switches on forced downloads for remote files (ones that aren't kept on your domain). To make this option actually work you'll need to place a downloader file on any remote servers you want to force downloads from. The following explains how to do this.
+
+NOTE 2: If your remote domains do not run php then you'll need to create an equivalent downloader file to the one that's included and referenced below.
+
+
+
+WHY IT'S NEEDED
+---------------
+
+Because in order to try and make the browser treat the link as a download (rather than playing it as most tend to) the server needs to send instructions (http headers) along with the file. So either the remote server has to be set up to do this by default (unlikely), or we've got to divert to a file that can set the right headers and then send the file. This has to be done on the same server as the file.  
+
+
+
+REQUIREMENTS
+------------
+
+- You have access to the remote servers! 
+
+- That the remote servers all run PHP, or that you can write something equivalent to 'downloader.php' included in the plugin.
+
+
+
+HOW TO SET IT UP 
+----------------
+
+1. Grab a copy of the file called 'downloader.php' that's lives in this directory of the plugin ( mp3-jplayer/remote/ ).
+
+2. Put the 'downloader.php' file anywhere on the remote domain.
+
+3. Go to player settings page and enter the path to it (from domain root) in 'Path to remote downloader files' option. 
+
+
+Eg. If you put the file at http://otherdomain.com/downloader.php then enter /downloader.php into the option. 
+
+If you want to use multiple remote domains then just make sure you put the downloader.php files in the same relative location from root on each domain.
+
+
+
+
+
+
+
+
+

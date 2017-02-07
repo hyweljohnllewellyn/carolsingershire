@@ -1,0 +1,1361 @@
+# Copyright (C) 2016 MP3-jPlayer
+# This file is distributed under the same license as the MP3-jPlayer package.
+msgid ""
+msgstr ""
+"Project-Id-Version: MP3-jPlayer 2.6\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/mp3-jplayer\n"
+"POT-Creation-Date: 2016-03-02 16:52:28+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2016-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: admin-colours.php:43 admin-settings.php:182
+msgid "Settings saved."
+msgstr ""
+
+#: admin-colours.php:104
+msgid "Player Design"
+msgstr ""
+
+#: admin-colours.php:115
+msgid "Skin"
+msgstr ""
+
+#: admin-colours.php:128 admin-colours.php:750
+msgid "url:"
+msgstr ""
+
+#: admin-colours.php:130 admin-colours.php:751
+msgid "Reload"
+msgstr ""
+
+#: admin-colours.php:231
+msgid "Example List Item"
+msgstr ""
+
+#: admin-colours.php:232
+msgid "Example List item (hover)"
+msgstr ""
+
+#: admin-colours.php:233
+msgid "Example List Item (Current)"
+msgstr ""
+
+#: admin-colours.php:254
+msgid "Text"
+msgstr ""
+
+#: admin-colours.php:255
+msgid "Areas"
+msgstr ""
+
+#: admin-colours.php:256
+msgid "Fonts"
+msgstr ""
+
+#: admin-colours.php:257
+msgid "Alignments"
+msgstr ""
+
+#: admin-colours.php:258
+msgctxt "as in modifications"
+msgid "Mods"
+msgstr ""
+
+#: admin-colours.php:268 admin-colours.php:341 admin-colours.php:511
+msgid "Titles:"
+msgstr ""
+
+#: admin-colours.php:276
+msgid "Hide"
+msgstr ""
+
+#: admin-colours.php:282 admin-colours.php:493 admin-colours.php:547
+msgid "Playlist:"
+msgstr ""
+
+#: admin-colours.php:295
+msgid "Hover:"
+msgstr ""
+
+#: admin-colours.php:310 admin-colours.php:329
+msgid "Background"
+msgstr ""
+
+#: admin-colours.php:314
+msgid "Current:"
+msgstr ""
+
+#: admin-colours.php:337 admin-colours.php:477
+msgid "Show Field Values"
+msgstr ""
+
+#: admin-colours.php:345
+msgid "List:"
+msgstr ""
+
+#: admin-colours.php:349
+msgid "List Hover:"
+msgstr ""
+
+#: admin-colours.php:353
+msgid "List Hover BG:"
+msgstr ""
+
+#: admin-colours.php:357
+msgid "List Current:"
+msgstr ""
+
+#: admin-colours.php:361
+msgid "List Current BG:"
+msgstr ""
+
+#: admin-colours.php:365
+msgid "Track"
+msgstr ""
+
+#: admin-colours.php:367 admin-colours.php:374 admin-colours.php:381
+msgid "Bold"
+msgstr ""
+
+#: admin-colours.php:368 admin-colours.php:375 admin-colours.php:382
+msgid "Italic"
+msgstr ""
+
+#: admin-colours.php:372 admin-settings.php:437 admin-settings.php:448
+msgid "Caption"
+msgstr ""
+
+#: admin-colours.php:379 admin-colours.php:444 admin-colours.php:626
+msgid "Playlist"
+msgstr ""
+
+#: admin-colours.php:400
+msgid "Screen"
+msgstr ""
+
+#: admin-colours.php:412
+msgid "Load Bar"
+msgstr ""
+
+#: admin-colours.php:420
+msgid "Indicator"
+msgstr ""
+
+#: admin-colours.php:422
+msgid "Greyscale"
+msgstr ""
+
+#: admin-colours.php:423
+msgid "Colour"
+msgstr ""
+
+#: admin-colours.php:427
+msgid "Position Bar"
+msgstr ""
+
+#: admin-colours.php:435 admin-colours.php:452
+msgid "Gradient"
+msgstr ""
+
+#: admin-colours.php:437 admin-colours.php:454 admin-colours.php:466
+msgid "None"
+msgstr ""
+
+#: admin-colours.php:438
+msgid "Light grad"
+msgstr ""
+
+#: admin-colours.php:439
+msgid "Pipe"
+msgstr ""
+
+#: admin-colours.php:440
+msgid "Dark grad"
+msgstr ""
+
+#: admin-colours.php:455
+msgid "Light Short"
+msgstr ""
+
+#: admin-colours.php:456
+msgid "Light Long"
+msgstr ""
+
+#: admin-colours.php:457
+msgid "Dark Short"
+msgstr ""
+
+#: admin-colours.php:458
+msgid "Dark Long"
+msgstr ""
+
+#: admin-colours.php:464
+msgid "Dividers"
+msgstr ""
+
+#: admin-colours.php:467
+msgid "Light"
+msgstr ""
+
+#: admin-colours.php:468 admin-colours.php:615
+msgid "Medium"
+msgstr ""
+
+#: admin-colours.php:469
+msgid "Dark"
+msgstr ""
+
+#: admin-colours.php:481
+msgid "Screen:"
+msgstr ""
+
+#: admin-colours.php:485
+msgid "Load Bar:"
+msgstr ""
+
+#: admin-colours.php:489
+msgid "Position Bar:"
+msgstr ""
+
+#: admin-colours.php:513 admin-colours.php:549
+msgid "Theme's Font"
+msgstr ""
+
+#: admin-colours.php:514 admin-colours.php:550
+msgid "Arial"
+msgstr ""
+
+#: admin-colours.php:515 admin-colours.php:551
+msgid "Verdana"
+msgstr ""
+
+#: admin-colours.php:516 admin-colours.php:552
+msgid "Times"
+msgstr ""
+
+#: admin-colours.php:517 admin-colours.php:553
+msgid "Palatino"
+msgstr ""
+
+#: admin-colours.php:518 admin-colours.php:554
+msgid "Courier New"
+msgstr ""
+
+#: admin-colours.php:519 admin-colours.php:555
+msgid "Lucida Console"
+msgstr ""
+
+#: admin-colours.php:520 admin-colours.php:556
+msgid "Gill Sans"
+msgstr ""
+
+#: admin-colours.php:527
+msgid "Track:"
+msgstr ""
+
+#: admin-colours.php:536
+msgid "Caption:"
+msgstr ""
+
+#: admin-colours.php:592
+msgid "Player Height"
+msgstr ""
+
+#: admin-colours.php:603
+msgid "Images"
+msgstr ""
+
+#: admin-colours.php:605 admin-colours.php:628 admin-colours.php:639
+#: admin-settings.php:288 widget-ui.php:342
+msgid "Left"
+msgstr ""
+
+#: admin-colours.php:606 admin-colours.php:629 admin-colours.php:640
+#: admin-settings.php:289 widget-ui.php:343
+msgid "Centre"
+msgstr ""
+
+#: admin-colours.php:607 admin-colours.php:630 admin-colours.php:641
+#: admin-settings.php:290 widget-ui.php:344
+msgid "Right"
+msgstr ""
+
+#: admin-colours.php:611
+msgid "Original size"
+msgstr ""
+
+#: admin-colours.php:612
+msgid "Fit to player width"
+msgstr ""
+
+#: admin-colours.php:613
+msgid "Fit to player height"
+msgstr ""
+
+#: admin-colours.php:614
+msgid "Thumbnail"
+msgstr ""
+
+#: admin-colours.php:616
+msgid "Large"
+msgstr ""
+
+#: admin-colours.php:621
+msgid "overflow"
+msgstr ""
+
+#: admin-colours.php:637
+msgid "Titles"
+msgstr ""
+
+#: admin-colours.php:648
+msgid "Top"
+msgstr ""
+
+#: admin-colours.php:655 admin-colours.php:668
+msgid "px or %"
+msgstr ""
+
+#: admin-colours.php:660
+msgid "Margins"
+msgstr ""
+
+#: admin-colours.php:683
+msgid "Modifiers:"
+msgstr ""
+
+#: admin-colours.php:685
+msgid ""
+"Use this field to add modifier names. Use a space to separate names, the "
+"following are supported by default:"
+msgstr ""
+
+#: admin-colours.php:690
+msgid "Puts play buttons on the left"
+msgstr ""
+
+#: admin-colours.php:694
+msgid "Hides the entire player (eg. background audio)"
+msgstr ""
+
+#: admin-colours.php:701
+msgid "Hides the stop button"
+msgstr ""
+
+#: admin-colours.php:705
+msgid "Hides the prev/next buttons"
+msgstr ""
+
+#: admin-colours.php:709
+msgid "Hides the volume control"
+msgstr ""
+
+#: admin-colours.php:713
+msgid "Hides the track title and caption"
+msgstr ""
+
+#: admin-colours.php:717
+msgid "Hides the playlist button"
+msgstr ""
+
+#: admin-colours.php:721
+msgid "Hides the popout button"
+msgstr ""
+
+#: admin-colours.php:725
+msgid "Position slider fills the screen/image area"
+msgstr ""
+
+#: admin-colours.php:729
+msgid "removes the position and load bars"
+msgstr ""
+
+#: admin-colours.php:733
+msgid "removes the container bar around the buttons"
+msgstr ""
+
+#: admin-colours.php:750
+msgid "Test Image"
+msgstr ""
+
+#: admin-colours.php:758 admin-settings.php:925
+msgid "Save All Changes"
+msgstr ""
+
+#: admin-colours.php:771 admin-settings.php:941
+msgid "Help & Docs"
+msgstr ""
+
+#: admin-colours.php:772 admin-settings.php:943
+msgid "Get Skins"
+msgstr ""
+
+#: admin-colours.php:773 admin-settings.php:942
+msgid "Get Add-Ons"
+msgstr ""
+
+#: admin-settings.php:198
+msgid "Media"
+msgstr ""
+
+#: admin-settings.php:199
+msgid "Players"
+msgstr ""
+
+#: admin-settings.php:200
+msgid "Downloads"
+msgstr ""
+
+#: admin-settings.php:201
+msgid "Popout"
+msgstr ""
+
+#: admin-settings.php:202
+msgid "Advanced"
+msgstr ""
+
+#: admin-settings.php:217
+msgid "Text Players (single-file)"
+msgstr ""
+
+#: admin-settings.php:220 admin-settings.php:246
+msgid "Font Size"
+msgstr ""
+
+#: admin-settings.php:224 admin-settings.php:250 widget-ui.php:313
+msgid "Volume"
+msgstr ""
+
+#: admin-settings.php:228 admin-settings.php:254
+msgid "Play on RHS"
+msgstr ""
+
+#: admin-settings.php:232 admin-settings.php:258
+msgid "Colour Scheme"
+msgstr ""
+
+#: admin-settings.php:234 admin-settings.php:260
+msgctxt "as in switched on"
+msgid "On"
+msgstr ""
+
+#: admin-settings.php:243
+msgid "Button Players (single-file)"
+msgstr ""
+
+#: admin-settings.php:278 admin-settings.php:776 admin-settings.php:818
+#: admin-settings.php:827
+msgid "Playlist Players"
+msgstr ""
+
+#: admin-settings.php:281
+msgid "Width:"
+msgstr ""
+
+#: admin-settings.php:283 admin-settings.php:310
+msgid "Pixels (px) or percent (%)."
+msgstr ""
+
+#: admin-settings.php:286
+msgid "Alignment:"
+msgstr ""
+
+#: admin-settings.php:291
+msgid "Float Left"
+msgstr ""
+
+#: admin-settings.php:292
+msgid "Float Right"
+msgstr ""
+
+#: admin-settings.php:297
+msgid "Margins:"
+msgstr ""
+
+#: admin-settings.php:298
+msgid "Above players"
+msgstr ""
+
+#: admin-settings.php:302
+msgid "Inner margin (floated players)"
+msgstr ""
+
+#: admin-settings.php:306
+msgid "Below players"
+msgstr ""
+
+#: admin-settings.php:313
+msgid "Max playlist height:"
+msgstr ""
+
+#: admin-settings.php:317
+msgid ""
+"A scroll bar will show for longer playlists, leave it blank for no limit."
+msgstr ""
+
+#: admin-settings.php:323
+msgid "Show sub titles in playlists"
+msgstr ""
+
+#: admin-settings.php:327
+msgid "Start with playlists open"
+msgstr ""
+
+#: admin-settings.php:331
+msgid "Show popout player button"
+msgstr ""
+
+#: admin-settings.php:347
+msgid "Initial volume:"
+msgstr ""
+
+#: admin-settings.php:352
+msgid "Number the tracks"
+msgstr ""
+
+#: admin-settings.php:355
+msgid "Auto play"
+msgstr ""
+
+#: admin-settings.php:359
+msgid "Loop playlist"
+msgstr ""
+
+#: admin-settings.php:362
+msgid "Resume playback"
+msgstr ""
+
+#: admin-settings.php:364
+msgid ""
+"Note that Resume and Auto play are prevented by many devices, these will "
+"activate on desktops and laptops only."
+msgstr ""
+
+#: admin-settings.php:364 admin-settings.php:378 admin-settings.php:548
+#: admin-settings.php:577
+msgid "Help"
+msgstr ""
+
+#: admin-settings.php:367
+msgid "Resume Playback"
+msgstr ""
+
+#: admin-settings.php:368
+msgid ""
+"This gives near-continuous listening when browsing the site (there will be a "
+"short pause as the next page loads). Resuming will work wherever you have "
+"used the same piece of audio on different pages on the site."
+msgstr ""
+
+#: admin-settings.php:369
+msgid "Auto Play"
+msgstr ""
+
+#: admin-settings.php:370
+msgid ""
+"If you set multiple players on a page to autoplay then they will play their "
+"playlists in sequence one after the other."
+msgstr ""
+
+#: admin-settings.php:376
+msgid "Auto-find counterpart files"
+msgstr ""
+
+#: admin-settings.php:378
+msgid ""
+"This will pick up a fallback format if it's in the same location as the "
+"playlisted track, based on a filename match."
+msgstr ""
+
+#: admin-settings.php:380
+msgid ""
+"With this option ticked, the plugin will automatically look for counterpart "
+"files for any players on a page. The playlisted (primary) track must be from "
+"the MPEG family (an mp3, m4a, or mp4 file)."
+msgstr ""
+
+#: admin-settings.php:381
+msgid ""
+"Auto-counterparting works for MPEGS in the library, in local folders, and "
+"when using bulk play or FEED commands. Just make sure your counterparts have "
+"the same filename, and are in the same location as the primary track."
+msgstr ""
+
+#: admin-settings.php:382
+msgid ""
+"You can always manually add a counterpart to any primary track format by "
+"using the <code>counterpart</code> parameter in a shortcode and specifying a "
+"url."
+msgstr ""
+
+#: admin-settings.php:383
+msgid ""
+"Automatic Counterparts are chosen with the following format priority: OGG, "
+"WEBM, WAV."
+msgstr ""
+
+#: admin-settings.php:392
+msgid "NOTE: jQuery and UI scripts are turned off."
+msgstr ""
+
+#: admin-settings.php:396
+msgid "Get Started:"
+msgstr ""
+
+#: admin-settings.php:397
+msgid "Upload some audio"
+msgstr ""
+
+#: admin-settings.php:398
+msgid "How to add players"
+msgstr ""
+
+#: admin-settings.php:399
+msgid "Audio Format Help"
+msgstr ""
+
+#: admin-settings.php:403
+msgid "More Info:"
+msgstr ""
+
+#: admin-settings.php:404
+msgid "Help & Docs main page"
+msgstr ""
+
+#: admin-settings.php:405
+msgid "Shortcode Reference"
+msgstr ""
+
+#: admin-settings.php:408
+msgid "Plugin home page"
+msgstr ""
+
+#: admin-settings.php:409
+msgid "Version"
+msgstr ""
+
+#: admin-settings.php:424
+msgid "Library"
+msgstr ""
+
+#: admin-settings.php:425
+msgid ""
+"Choose which title information to show in the players and playlists when "
+"playing from your WordPress Media Library."
+msgstr ""
+
+#: admin-settings.php:432
+msgid "Main Titles"
+msgstr ""
+
+#: admin-settings.php:434
+msgid "Track Title"
+msgstr ""
+
+#: admin-settings.php:435 admin-settings.php:446
+msgid "Artist"
+msgstr ""
+
+#: admin-settings.php:436 admin-settings.php:447
+msgid "Album"
+msgstr ""
+
+#: admin-settings.php:438 admin-settings.php:449
+msgid "Upload Date"
+msgstr ""
+
+#: admin-settings.php:442
+msgid "Secondary Titles"
+msgstr ""
+
+#: admin-settings.php:444
+msgid "- None -"
+msgstr ""
+
+#: admin-settings.php:445 admin-settings.php:614
+msgid "Title"
+msgstr ""
+
+#: admin-settings.php:461
+msgid "View Files"
+msgstr ""
+
+#: admin-settings.php:462
+msgid "Upload Audio"
+msgstr ""
+
+#: admin-settings.php:477
+msgid "rows per page"
+msgstr ""
+
+#: admin-settings.php:479
+msgid "Refresh"
+msgstr ""
+
+#: admin-settings.php:539
+msgid "check the path and folder permissions."
+msgstr ""
+
+#: admin-settings.php:542
+msgid ""
+"No info is available on remote folders but you can play from here if you "
+"know the filenames"
+msgstr ""
+
+#: admin-settings.php:547
+msgid "Default Folder"
+msgstr ""
+
+#: admin-settings.php:548
+msgid "Set a folder path or url below."
+msgstr ""
+
+#: admin-settings.php:551
+msgid ""
+"If you like, you can specify a location (local or remote) to play some of "
+"your audio from. For example:"
+msgstr ""
+
+#: admin-settings.php:553
+msgid ""
+"This means you only need to write the filenames in playlists to play from "
+"this location (you don't need to use the full url)."
+msgstr ""
+
+#: admin-settings.php:554
+msgid ""
+"If the path is local (on your domain) then you can also bulk-play this "
+"folder."
+msgstr ""
+
+#: admin-settings.php:560
+msgid "Folder Path"
+msgstr ""
+
+#: admin-settings.php:562
+msgid "View files"
+msgstr ""
+
+#: admin-settings.php:575
+msgid "Bulk-Play Settings"
+msgstr ""
+
+#: admin-settings.php:576
+msgid ""
+"Choose which audio formats are playlisted when bulk-playing from folders, "
+"the library, and via the FEED command in playlists."
+msgstr ""
+
+#: admin-settings.php:580
+msgid ""
+"Use a simple shortcode in your posts and pages to playlist entire folders "
+"that are on your domain. You can also play your entire library."
+msgstr ""
+
+#: admin-settings.php:582
+msgid "Play all audio in your library"
+msgstr ""
+
+#: admin-settings.php:585
+msgid "Play all audio in your default folder"
+msgstr ""
+
+#: admin-settings.php:588
+msgid "Play all audio from the folder"
+msgstr ""
+
+#: admin-settings.php:591
+msgid ""
+"Control which of your file types get picked up using the tickboxes below."
+msgstr ""
+
+#: admin-settings.php:606
+msgid "Set the ordering for the playlists when bulk playing."
+msgstr ""
+
+#: admin-settings.php:610
+msgid "Library:"
+msgstr ""
+
+#: admin-settings.php:611 admin-settings.php:630
+msgid "Order by"
+msgstr ""
+
+#: admin-settings.php:615
+msgid "Sub-title, Title"
+msgstr ""
+
+#: admin-settings.php:616 admin-settings.php:633
+msgid "Filename"
+msgstr ""
+
+#: admin-settings.php:617 admin-settings.php:634
+msgid "Date Uploaded"
+msgstr ""
+
+#: admin-settings.php:620 admin-settings.php:637
+msgid "Direction"
+msgstr ""
+
+#: admin-settings.php:623 admin-settings.php:640
+msgid "Asc"
+msgstr ""
+
+#: admin-settings.php:624 admin-settings.php:641
+msgid "Desc"
+msgstr ""
+
+#: admin-settings.php:629
+msgid "Folders:"
+msgstr ""
+
+#: admin-settings.php:657
+msgid ""
+"Download buttons are shown on playlist players, use these options to set "
+"their behavior."
+msgstr ""
+
+#: admin-settings.php:661
+msgid "Show Download Button"
+msgstr ""
+
+#: admin-settings.php:663 widget-ui.php:326
+msgid "Yes"
+msgstr ""
+
+#: admin-settings.php:664 widget-ui.php:327
+msgid "No"
+msgstr ""
+
+#: admin-settings.php:665
+msgid "To logged in users"
+msgstr ""
+
+#: admin-settings.php:669
+msgid "Button Text"
+msgstr ""
+
+#: admin-settings.php:678
+msgid ""
+"When setting players for logged-in downloads, optionally set the text/link "
+"for any logged out visitors."
+msgstr ""
+
+#: admin-settings.php:682
+msgid "Visitor Text"
+msgstr ""
+
+#: admin-settings.php:688
+msgid "Visitor Link"
+msgstr ""
+
+#: admin-settings.php:691
+msgid "Optional URL for the visitor text"
+msgstr ""
+
+#: admin-settings.php:700
+msgid "Use Smooth Downloading"
+msgstr ""
+
+#: admin-settings.php:704
+msgid ""
+"This option makes downloading seamless for most users, or it will display a "
+"dialog box with a link when a seamless download is not possible."
+msgstr ""
+
+#: admin-settings.php:714
+msgid "Path to remote downloader file"
+msgstr ""
+
+#: admin-settings.php:720
+msgid ""
+"If you play from other domains and want smooth downloads, then use the field "
+"above to specify a path to the downloader file."
+msgstr ""
+
+#: admin-settings.php:730
+msgid "Set the default text displayed on popout buttons."
+msgstr ""
+
+#: admin-settings.php:733
+msgid "Launch Button Text"
+msgstr ""
+
+#: admin-settings.php:740
+msgid "Popout window settings."
+msgstr ""
+
+#: admin-settings.php:743
+msgid "Window Width"
+msgstr ""
+
+#: admin-settings.php:747
+msgid "Window Height"
+msgstr ""
+
+#: admin-settings.php:748
+msgid "a scroll bar will show for longer playlists"
+msgstr ""
+
+#: admin-settings.php:751
+msgid "Background Colour"
+msgstr ""
+
+#: admin-settings.php:755
+msgid "Background Image"
+msgstr ""
+
+#: admin-settings.php:767
+msgid "Choose which aspects of your content you'd like MP3-jPlayer to handle."
+msgstr ""
+
+#: admin-settings.php:771
+msgid "Audio Players"
+msgstr ""
+
+#: admin-settings.php:772
+msgid ""
+"Use the 'Add Media' Button on post/page edit screens and choose 'Embed "
+"Player' from the right select (WP 3.6+)."
+msgstr ""
+
+#: admin-settings.php:777
+msgid ""
+"Use the 'Add Media' Button on post/page edit screens and choose 'Audio "
+"Playlist' from the left menu (WP 3.9+)."
+msgstr ""
+
+#: admin-settings.php:781
+msgid "Links to Audio Files"
+msgstr ""
+
+#: admin-settings.php:782
+msgid ""
+"Links within post/page content will be turned into players using the "
+"shortcode specified under the 'Advanced' tab."
+msgstr ""
+
+#: admin-settings.php:786
+msgid "Attached Audio"
+msgstr ""
+
+#: admin-settings.php:787
+msgid ""
+"Use the shortcode <code>[audio]</code> in posts and pages to playlist any "
+"attached audio."
+msgstr ""
+
+#: admin-settings.php:791
+msgid "URLs"
+msgstr ""
+
+#: admin-settings.php:792
+msgid "Paste urls directly into posts and pages (WP 3.6+)."
+msgstr ""
+
+#: admin-settings.php:796
+msgid ""
+"You can always use MP3-jPlayer's own shortcodes and widgets regardless of "
+"the above settings."
+msgstr ""
+
+#: admin-settings.php:800
+msgid ""
+"On pages like Index, Archive and Search pages, choose whether players should "
+"be seen within the results. These settings won't affect player widgets."
+msgstr ""
+
+#: admin-settings.php:802
+msgid "Show players when the full content is used."
+msgstr ""
+
+#: admin-settings.php:804
+msgid "Show players when excerpts (short summaries) are used."
+msgstr ""
+
+#: admin-settings.php:806
+msgid ""
+"NOTE: You will need to manually write your post excerpts for this to work. "
+"Write your shortcodes into the excerpt field on post edit screens."
+msgstr ""
+
+#: admin-settings.php:810
+msgid "Conversion Options"
+msgstr ""
+
+#: admin-settings.php:813
+msgid ""
+"<strong>Turn</strong> <code>[audio]</code> <strong>shortcodes into</strong>:"
+msgstr ""
+
+#: admin-settings.php:816
+msgid "Single Players - Graphic"
+msgstr ""
+
+#: admin-settings.php:817
+msgid "Single Players - Text"
+msgstr ""
+
+#: admin-settings.php:819 admin-settings.php:828
+msgid "Popout Links"
+msgstr ""
+
+#: admin-settings.php:824
+msgid ""
+"<strong>Turn</strong> <code>[playlist]</code> <strong>shortcodes into</"
+"strong>:"
+msgstr ""
+
+#: admin-settings.php:833
+msgid "Turn converted links into"
+msgstr ""
+
+#: admin-settings.php:839
+msgid ""
+"Placeholders: <code>{TEXT}</code> - Link text, <code>{URL}</code> - Link url."
+msgstr ""
+
+#: admin-settings.php:840
+msgid "This field can also include arbitrary text/html."
+msgstr ""
+
+#: admin-settings.php:847
+msgid "Misc File Settings"
+msgstr ""
+
+#: admin-settings.php:849
+msgid "Allow position seeking beyond buffered"
+msgstr ""
+
+#: admin-settings.php:851
+msgid ""
+"Lets users seek to end of tracks without waiting for media to load. Most "
+"servers should allow this by default, if you are having issues then check "
+"that your server has the <code>accept-ranges: bytes</code> header set, or "
+"you can just switch this option off."
+msgstr ""
+
+#: admin-settings.php:853
+msgid "Hide file extensions if a filename is displayed"
+msgstr ""
+
+#: admin-settings.php:854
+msgid "Filenames are displayed when there's no available titles."
+msgstr ""
+
+#: admin-settings.php:856
+msgid "Encode URLs"
+msgstr ""
+
+#: admin-settings.php:857
+msgid "Provides some obfuscation of your urls in the page source."
+msgstr ""
+
+#: admin-settings.php:859
+msgid "Allow playing of off-site files"
+msgstr ""
+
+#: admin-settings.php:860
+msgid ""
+"Un-checking this option filters out any files coming from other domains, but "
+"doesn't affect ability to play from a remote default path if one has been "
+"set above."
+msgstr ""
+
+#: admin-settings.php:867
+msgid "Misc Player Settings"
+msgstr ""
+
+#: admin-settings.php:868
+msgid "Show player error messages"
+msgstr ""
+
+#: admin-settings.php:871
+msgid "Never"
+msgstr ""
+
+#: admin-settings.php:872
+msgid "To Admins only"
+msgstr ""
+
+#: admin-settings.php:873
+msgid "To All"
+msgstr ""
+
+#: admin-settings.php:879
+msgid "Playlist Separator Settings"
+msgstr ""
+
+#: admin-settings.php:881
+msgid ""
+"If you manually write playlists then you can choose the separators you use "
+"in the tracks and captions lists."
+msgstr ""
+
+#: admin-settings.php:882
+msgid ""
+"<strong>CAUTION!!</strong> You'll need to manually update any existing "
+"playlists if you change the separators!"
+msgstr ""
+
+#: admin-settings.php:884
+msgid "Files:"
+msgstr ""
+
+#: admin-settings.php:886 admin-settings.php:894
+msgid "(comma)"
+msgstr ""
+
+#: admin-settings.php:887 admin-settings.php:895
+msgid "(semicolon)"
+msgstr ""
+
+#: admin-settings.php:888 admin-settings.php:896
+msgid "(3 hashes)"
+msgstr ""
+
+#: admin-settings.php:890 admin-settings.php:898
+msgid "eg."
+msgstr ""
+
+#: admin-settings.php:892
+msgid "Captions:"
+msgstr ""
+
+#: admin-settings.php:904
+msgid "Developer Settings"
+msgstr ""
+
+#: admin-settings.php:906
+msgid "Turn on debug"
+msgstr ""
+
+#: admin-settings.php:907
+msgid "Info appears in the source view near the bottom."
+msgstr ""
+
+#: admin-settings.php:912
+msgid "Disable jQuery and jQuery-UI javascript libraries?"
+msgstr ""
+
+#: admin-settings.php:913
+msgid ""
+"<strong>CAUTION!!</strong> This option will bypass the request <strong>from "
+"this plugin only</strong> for both jQuery <strong>and</strong> jQuery-UI "
+"scripts, you <strong>MUST</strong> be providing these scripts from an "
+"alternative source."
+msgstr ""
+
+#: admin-settings.php:914
+msgid ""
+"Type <code>yes</code> in the box and save settings to bypass jQuery and "
+"jQuery-UI."
+msgstr ""
+
+#: admin-settings.php:928
+msgid "Remember settings if plugin is deactivated"
+msgstr ""
+
+#: frontend.php:62
+msgid "Settings"
+msgstr ""
+
+#: widget-sh.php:17
+msgid "Add audio players by writing shortcodes."
+msgstr ""
+
+#: widget-sh.php:22
+msgid "MP3-jPlayer|Shortcodes"
+msgstr ""
+
+#: widget-sh.php:86
+msgid "Shortcodes:"
+msgstr ""
+
+#: widget-sh.php:89 widget-ui.php:361
+msgid "Widget Heading:"
+msgstr ""
+
+#: widget-sh.php:92 widget-ui.php:367
+msgid "Page Filter:"
+msgstr ""
+
+#: widget-sh.php:93 widget-ui.php:368
+msgid "Include"
+msgstr ""
+
+#: widget-sh.php:95 widget-ui.php:370
+msgid "or"
+msgstr ""
+
+#: widget-sh.php:97 widget-ui.php:372
+msgid "Exclude"
+msgstr ""
+
+#: widget-sh.php:100 widget-ui.php:375
+msgid ""
+"A comma separated list, it can contain <code>index</code>, <code>archive</"
+"code>, <code>post</code>, <code>search</code>, and any <strong>post IDs</"
+"strong>."
+msgstr ""
+
+#: widget-ui.php:17
+msgid "Adds a playlist player. Choose playback mode and options."
+msgstr ""
+
+#: widget-ui.php:22
+msgid "MP3-jPlayer|Playlister"
+msgstr ""
+
+#: widget-ui.php:227
+msgid "Play Mode:"
+msgstr ""
+
+#: widget-ui.php:229
+msgid "Play Attached audio"
+msgstr ""
+
+#: widget-ui.php:230
+msgid ""
+"Automatically adds a player on SINGLE posts/pages when they have audio "
+"attachments."
+msgstr ""
+
+#: widget-ui.php:233
+msgid "Play Custom fields"
+msgstr ""
+
+#: widget-ui.php:234
+msgid ""
+"Automatically adds a player on SINGLE posts/pages, if you have used custom "
+"fields to make a playlist."
+msgstr ""
+
+#: widget-ui.php:237
+msgid "Write a Playlist..."
+msgstr ""
+
+#: widget-ui.php:238
+msgid ""
+"A list of URLs, library/default folder filenames, or FEEDs, separated by"
+msgstr ""
+
+#: widget-ui.php:242
+msgid "Generate Playlist..."
+msgstr ""
+
+#: widget-ui.php:245
+msgid "My library"
+msgstr ""
+
+#: widget-ui.php:261
+msgid "There are no audio files here"
+msgstr ""
+
+#: widget-ui.php:266
+msgid "Folder not found, check path and permissions"
+msgstr ""
+
+#: widget-ui.php:271
+msgid "Remote or inaccessible folder"
+msgstr ""
+
+#: widget-ui.php:276
+msgid "A folder:"
+msgstr ""
+
+#: widget-ui.php:283
+msgid "Player Settings:"
+msgstr ""
+
+#: widget-ui.php:287
+msgid "Autoplay"
+msgstr ""
+
+#: widget-ui.php:290
+msgid "Repeat"
+msgstr ""
+
+#: widget-ui.php:293
+msgid "Show playlist"
+msgstr ""
+
+#: widget-ui.php:296
+msgid "Show images"
+msgstr ""
+
+#: widget-ui.php:299
+msgid "Stop button"
+msgstr ""
+
+#: widget-ui.php:302
+msgid "Prev/next"
+msgstr ""
+
+#: widget-ui.php:307
+msgid "Shuffle"
+msgstr ""
+
+#: widget-ui.php:319
+msgid "Pick"
+msgstr ""
+
+#: widget-ui.php:321
+msgid "track(s)"
+msgstr ""
+
+#: widget-ui.php:324
+msgid "Download"
+msgstr ""
+
+#: widget-ui.php:328
+msgid "Logged in"
+msgstr ""
+
+#: widget-ui.php:332
+msgid "Width"
+msgstr ""
+
+#: widget-ui.php:336
+msgid "Height"
+msgstr ""
+
+#: widget-ui.php:340
+msgid "Align"
+msgstr ""
+
+#: widget-ui.php:345
+msgid "Float left"
+msgstr ""
+
+#: widget-ui.php:346
+msgid "Float right"
+msgstr ""
+
+#: widget-ui.php:353
+msgid "Style"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "MP3-jPlayer"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "http://mp3-jplayer.com"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Easy, Flexible Audio for WordPress."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Simon Ward"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://www.sjward.org"
+msgstr ""

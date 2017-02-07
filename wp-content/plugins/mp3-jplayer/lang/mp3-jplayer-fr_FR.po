@@ -1,0 +1,1673 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: MP3-jPlayer v2.7\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2016-05-23 03:09:10+0000\n"
+"Last-Translator: txia <txia@lyfoung.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n>1;\n"
+"X-Generator: CSL v1.x\n"
+"X-Poedit-Language: French\n"
+"X-Poedit-Country: FRANCE\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes"
+
+#: admin-colours.php:43
+#: admin-settings.php:124
+#@ mp3-jplayer
+msgid "Settings saved."
+msgstr "Paramètres sauvegardés."
+
+#: admin-colours.php:104
+#@ mp3-jplayer
+msgid "Player Design"
+msgstr "Apparence du lecteur"
+
+#: admin-colours.php:115
+#@ mp3-jplayer
+msgid "Skin"
+msgstr "Skin"
+
+#: admin-colours.php:128
+#: admin-colours.php:750
+#@ mp3-jplayer
+msgid "url:"
+msgstr "url:"
+
+#: admin-colours.php:130
+#: admin-colours.php:751
+#@ mp3-jplayer
+msgid "Reload"
+msgstr "Recharger"
+
+#: admin-colours.php:231
+#@ mp3-jplayer
+msgid "Example List Item"
+msgstr "Exemple d'Item par liste"
+
+#: admin-colours.php:231
+#: admin-colours.php:232
+#: admin-colours.php:233
+#@ mp3-jplayer
+msgid "Example Caption"
+msgstr "Exemple de Légende"
+
+#: admin-colours.php:232
+#@ mp3-jplayer
+msgid "Example List item (hover)"
+msgstr "Exemple d'Item par liste (passage de la souris)"
+
+#: admin-colours.php:233
+#@ mp3-jplayer
+msgid "Example List Item (Current)"
+msgstr "Exemple d'Item par liste (en cours)"
+
+#: admin-colours.php:254
+#@ mp3-jplayer
+msgid "Text"
+msgstr "Texte"
+
+#: admin-colours.php:255
+#@ mp3-jplayer
+msgid "Areas"
+msgstr "Zones"
+
+#: admin-colours.php:256
+#@ mp3-jplayer
+msgid "Fonts"
+msgstr "Fontes"
+
+#: admin-colours.php:257
+#@ mp3-jplayer
+msgid "Alignments"
+msgstr "Alignements"
+
+#: admin-colours.php:258
+#@ mp3-jplayer
+msgctxt "as in modifications"
+msgid "Mods"
+msgstr "Mods"
+
+#: admin-colours.php:268
+#: admin-colours.php:341
+#: admin-colours.php:511
+#@ mp3-jplayer
+msgid "Titles:"
+msgstr "Titres:"
+
+#: admin-colours.php:276
+#@ mp3-jplayer
+msgid "Hide"
+msgstr "Masquer"
+
+#: admin-colours.php:282
+#: admin-colours.php:493
+#: admin-colours.php:547
+#@ mp3-jplayer
+msgid "Playlist:"
+msgstr "Playlist:"
+
+#: admin-colours.php:295
+#@ mp3-jplayer
+msgid "Hover:"
+msgstr "Passage de la souris:"
+
+#: admin-colours.php:310
+#: admin-colours.php:329
+#@ mp3-jplayer
+msgid "Background"
+msgstr "Arrière plan"
+
+#: admin-colours.php:314
+#@ mp3-jplayer
+msgid "Current:"
+msgstr "Courant:"
+
+#: admin-colours.php:337
+#: admin-colours.php:477
+#@ mp3-jplayer
+msgid "Show Field Values"
+msgstr "Afficher les Valeurs du champ"
+
+#: admin-colours.php:345
+#@ mp3-jplayer
+msgid "List:"
+msgstr "Liste:"
+
+#: admin-colours.php:349
+#@ mp3-jplayer
+msgid "List Hover:"
+msgstr "Liste sur passage de la souris:"
+
+#: admin-colours.php:353
+#@ mp3-jplayer
+msgid "List Hover BG:"
+msgstr "Liste sur passage de la souris (arrière plan)"
+
+#: admin-colours.php:357
+#@ mp3-jplayer
+msgid "List Current:"
+msgstr "Liste Actuelle:"
+
+#: admin-colours.php:361
+#@ mp3-jplayer
+msgid "List Current BG:"
+msgstr "Liste Actuelle (arrière plan):"
+
+#: admin-colours.php:365
+#@ mp3-jplayer
+msgid "Track"
+msgstr "Piste"
+
+#: admin-colours.php:367
+#: admin-colours.php:374
+#: admin-colours.php:381
+#@ mp3-jplayer
+msgid "Bold"
+msgstr "Gras"
+
+#: admin-colours.php:368
+#: admin-colours.php:375
+#: admin-colours.php:382
+#@ mp3-jplayer
+msgid "Italic"
+msgstr "Italique"
+
+#: admin-colours.php:372
+#: admin-settings.php:381
+#: admin-settings.php:392
+#@ mp3-jplayer
+msgid "Caption"
+msgstr "Légende"
+
+#: admin-colours.php:379
+#: admin-colours.php:444
+#: admin-colours.php:626
+#@ mp3-jplayer
+msgid "Playlist"
+msgstr "Playlist"
+
+#: admin-colours.php:400
+#@ mp3-jplayer
+msgid "Screen"
+msgstr "Écran"
+
+#: admin-colours.php:412
+#@ mp3-jplayer
+msgid "Load Bar"
+msgstr "Barre de chargement"
+
+#: admin-colours.php:420
+#@ mp3-jplayer
+msgid "Indicator"
+msgstr "Indicateur"
+
+#: admin-colours.php:422
+#@ mp3-jplayer
+msgid "Greyscale"
+msgstr "Ton de gris"
+
+#: admin-colours.php:423
+#@ mp3-jplayer
+msgid "Colour"
+msgstr "Couleur"
+
+#: admin-colours.php:427
+#@ mp3-jplayer
+msgid "Position Bar"
+msgstr "Barre de position"
+
+#: admin-colours.php:435
+#: admin-colours.php:452
+#@ mp3-jplayer
+msgid "Gradient"
+msgstr "Dégradé"
+
+#: admin-colours.php:437
+#: admin-colours.php:454
+#: admin-colours.php:466
+#@ mp3-jplayer
+msgid "None"
+msgstr "Sans"
+
+#: admin-colours.php:438
+#@ mp3-jplayer
+msgid "Light grad"
+msgstr "Dégradé clair"
+
+#: admin-colours.php:439
+#@ mp3-jplayer
+msgid "Pipe"
+msgstr "Conduit"
+
+#: admin-colours.php:440
+#@ mp3-jplayer
+msgid "Dark grad"
+msgstr "Dégradé foncé"
+
+#: admin-colours.php:455
+#@ mp3-jplayer
+msgid "Light Short"
+msgstr "Petit clair"
+
+#: admin-colours.php:456
+#@ mp3-jplayer
+msgid "Light Long"
+msgstr "Long clair"
+
+#: admin-colours.php:457
+#@ mp3-jplayer
+msgid "Dark Short"
+msgstr "Petit foncé"
+
+#: admin-colours.php:458
+#@ mp3-jplayer
+msgid "Dark Long"
+msgstr "Long foncé"
+
+#: admin-colours.php:464
+#@ mp3-jplayer
+msgid "Dividers"
+msgstr "Séparateurs"
+
+#: admin-colours.php:467
+#@ mp3-jplayer
+msgid "Light"
+msgstr "Clair"
+
+#: admin-colours.php:468
+#: admin-colours.php:615
+#@ mp3-jplayer
+msgid "Medium"
+msgstr "Moyen"
+
+#: admin-colours.php:469
+#@ mp3-jplayer
+msgid "Dark"
+msgstr "Foncé"
+
+#: admin-colours.php:481
+#@ mp3-jplayer
+msgid "Screen:"
+msgstr "Écran:"
+
+#: admin-colours.php:485
+#@ mp3-jplayer
+msgid "Load Bar:"
+msgstr "Barre de chargement:"
+
+#: admin-colours.php:489
+#@ mp3-jplayer
+msgid "Position Bar:"
+msgstr "Barre de position:"
+
+#: admin-colours.php:513
+#: admin-colours.php:549
+#@ mp3-jplayer
+msgid "Theme's Font"
+msgstr "Fonte du Thème"
+
+#: admin-colours.php:514
+#: admin-colours.php:550
+#@ mp3-jplayer
+msgid "Arial"
+msgstr "Arial"
+
+#: admin-colours.php:515
+#: admin-colours.php:551
+#@ mp3-jplayer
+msgid "Verdana"
+msgstr "Verdana"
+
+#: admin-colours.php:516
+#: admin-colours.php:552
+#@ mp3-jplayer
+msgid "Times"
+msgstr "Temps"
+
+#: admin-colours.php:517
+#: admin-colours.php:553
+#@ mp3-jplayer
+msgid "Palatino"
+msgstr "Palatino"
+
+#: admin-colours.php:518
+#: admin-colours.php:554
+#@ mp3-jplayer
+msgid "Courier New"
+msgstr "Courier New"
+
+#: admin-colours.php:519
+#: admin-colours.php:555
+#@ mp3-jplayer
+msgid "Lucida Console"
+msgstr "Lucida Console"
+
+#: admin-colours.php:520
+#: admin-colours.php:556
+#@ mp3-jplayer
+msgid "Gill Sans"
+msgstr "Gill Sans"
+
+#: admin-colours.php:527
+#@ mp3-jplayer
+msgid "Track:"
+msgstr "Piste:"
+
+#: admin-colours.php:536
+#@ mp3-jplayer
+msgid "Caption:"
+msgstr "Légende:"
+
+#: admin-colours.php:592
+#@ mp3-jplayer
+msgid "Player Height"
+msgstr "Hauteur du lecteur"
+
+#: admin-colours.php:603
+#@ mp3-jplayer
+msgid "Images"
+msgstr "Images"
+
+#: admin-colours.php:605
+#: admin-colours.php:628
+#: admin-colours.php:639
+#: admin-settings.php:230
+#: widget-ui.php:342
+#@ mp3-jplayer
+msgid "Left"
+msgstr "Gauche"
+
+#: admin-colours.php:606
+#: admin-colours.php:629
+#: admin-colours.php:640
+#: admin-settings.php:231
+#: widget-ui.php:343
+#@ mp3-jplayer
+msgid "Centre"
+msgstr "Centre"
+
+#: admin-colours.php:607
+#: admin-colours.php:630
+#: admin-colours.php:641
+#: admin-settings.php:232
+#: widget-ui.php:344
+#@ mp3-jplayer
+msgid "Right"
+msgstr "Droite"
+
+#: admin-colours.php:611
+#@ mp3-jplayer
+msgid "Original size"
+msgstr "Taille initiale"
+
+#: admin-colours.php:612
+#@ mp3-jplayer
+msgid "Fit to player width"
+msgstr "Mettre à la largeur du lecteur"
+
+#: admin-colours.php:613
+#@ mp3-jplayer
+msgid "Fit to player height"
+msgstr "Mettre à la hauteur du lecteur"
+
+#: admin-colours.php:614
+#@ mp3-jplayer
+msgid "Thumbnail"
+msgstr "Vignette"
+
+#: admin-colours.php:616
+#@ mp3-jplayer
+msgid "Large"
+msgstr "Grand"
+
+#: admin-colours.php:621
+#@ mp3-jplayer
+msgid "overflow"
+msgstr "dépassement"
+
+#: admin-colours.php:637
+#@ mp3-jplayer
+msgid "Titles"
+msgstr "Titres"
+
+#: admin-colours.php:648
+#@ mp3-jplayer
+msgid "Top"
+msgstr "Haut"
+
+#: admin-colours.php:655
+#: admin-colours.php:668
+#@ mp3-jplayer
+msgid "px or %"
+msgstr "px ou %"
+
+#: admin-colours.php:660
+#@ mp3-jplayer
+msgid "Margins"
+msgstr "Marges"
+
+#: admin-colours.php:683
+#@ mp3-jplayer
+msgid "Modifiers:"
+msgstr "Modificateurs:"
+
+#: admin-colours.php:685
+#@ mp3-jplayer
+msgid "Use this field to add modifier names. Use a space to separate names, the following are supported by default:"
+msgstr "Utilisez ce champ pour ajouter des noms de modification. Utilisez un espace pour séparer les noms, les éléments suivants sont pris en charge par défaut:"
+
+#: admin-colours.php:690
+#@ mp3-jplayer
+msgid "Puts play buttons on the left"
+msgstr "Mettre le bouton lancer sur la gauche"
+
+#: admin-colours.php:694
+#@ mp3-jplayer
+msgid "Hides the entire player (eg. background audio)"
+msgstr "Cacher complètement le lecteur (e.g fond sonore)"
+
+#: admin-colours.php:701
+#@ mp3-jplayer
+msgid "Hides the stop button"
+msgstr "Cacher le bouton de lecture"
+
+#: admin-colours.php:705
+#@ mp3-jplayer
+msgid "Hides the prev/next buttons"
+msgstr "Cacher les boutons précédent/suivant"
+
+#: admin-colours.php:709
+#@ mp3-jplayer
+msgid "Hides the volume control"
+msgstr "Cacher le contrôle de volume"
+
+#: admin-colours.php:713
+#@ mp3-jplayer
+msgid "Hides the track title and caption"
+msgstr "Cacher la légende et le titre de la piste"
+
+#: admin-colours.php:717
+#@ mp3-jplayer
+msgid "Hides the playlist button"
+msgstr "Cacher le bouton de la playlist"
+
+#: admin-colours.php:721
+#@ mp3-jplayer
+msgid "Hides the popout button"
+msgstr "Cacher le bouton popout"
+
+#: admin-colours.php:725
+#@ mp3-jplayer
+msgid "Position slider fills the screen/image area"
+msgstr "Occuper toute la zone de l'écran/image avec le curseur de position"
+
+#: admin-colours.php:729
+#@ mp3-jplayer
+msgid "removes the position and load bars"
+msgstr "enlever les barres de position et de chargement"
+
+#: admin-colours.php:733
+#@ mp3-jplayer
+msgid "removes the container bar around the buttons"
+msgstr "enlever la barre du conteneur autour des boutons"
+
+#: admin-colours.php:750
+#@ mp3-jplayer
+msgid "Test Image"
+msgstr "Tester l'image"
+
+#: admin-colours.php:758
+#: admin-settings.php:887
+#@ mp3-jplayer
+msgid "Save All Changes"
+msgstr "Sauvegarder toutes les modifications"
+
+#: admin-colours.php:771
+#: admin-settings.php:903
+#@ mp3-jplayer
+msgid "Help & Docs"
+msgstr "Documentations et aide"
+
+#: admin-colours.php:772
+#: admin-settings.php:905
+#@ mp3-jplayer
+msgid "Get Skins"
+msgstr "Obtenir des Skins"
+
+#: admin-colours.php:773
+#: admin-settings.php:904
+#@ mp3-jplayer
+msgid "Get Add-Ons"
+msgstr "Obtenir des Add-Ons"
+
+#: admin-settings.php:140
+#@ mp3-jplayer
+msgid "Media"
+msgstr "Média"
+
+#: admin-settings.php:141
+#@ mp3-jplayer
+msgid "Players"
+msgstr "Lecteur"
+
+#: admin-settings.php:142
+#@ mp3-jplayer
+msgid "Downloads"
+msgstr "Téléchargements"
+
+#: admin-settings.php:143
+#@ mp3-jplayer
+msgid "Popout"
+msgstr "Popout"
+
+#: admin-settings.php:144
+#@ mp3-jplayer
+msgid "Advanced"
+msgstr "Avancé"
+
+#: admin-settings.php:159
+#@ mp3-jplayer
+msgid "Text Players (single-file)"
+msgstr "Texte Lecteur (simple-fichier)"
+
+#: admin-settings.php:162
+#: admin-settings.php:188
+#@ mp3-jplayer
+msgid "Font Size"
+msgstr "Taille de fonte"
+
+#: admin-settings.php:166
+#: admin-settings.php:192
+#: widget-ui.php:313
+#@ mp3-jplayer
+msgid "Volume"
+msgstr "Volume"
+
+#: admin-settings.php:170
+#: admin-settings.php:196
+#@ mp3-jplayer
+msgid "Play on RHS"
+msgstr "Jouer sur RHS"
+
+#: admin-settings.php:174
+#: admin-settings.php:200
+#@ mp3-jplayer
+msgid "Colour Scheme"
+msgstr "Schéma de couleur"
+
+#: admin-settings.php:176
+#: admin-settings.php:202
+#@ mp3-jplayer
+msgctxt "as in switched on"
+msgid "On"
+msgstr "Activé"
+
+#: admin-settings.php:185
+#@ mp3-jplayer
+msgid "Button Players (single-file)"
+msgstr "Bouton des lecteur (simple-fichier)"
+
+#: admin-settings.php:220
+#: admin-settings.php:738
+#: admin-settings.php:780
+#: admin-settings.php:789
+#@ mp3-jplayer
+msgid "Playlist Players"
+msgstr "Playlist des lecteurs"
+
+#: admin-settings.php:223
+#@ mp3-jplayer
+msgid "Width:"
+msgstr "Largeur:"
+
+#: admin-settings.php:225
+#: admin-settings.php:252
+#@ mp3-jplayer
+msgid "Pixels (px) or percent (%)."
+msgstr "Pixels (px) ou pourcentage (%)"
+
+#: admin-settings.php:228
+#@ mp3-jplayer
+msgid "Alignment:"
+msgstr "Alignement:"
+
+#: admin-settings.php:233
+#@ mp3-jplayer
+msgid "Float Left"
+msgstr "Flotter à gauche"
+
+#: admin-settings.php:234
+#@ mp3-jplayer
+msgid "Float Right"
+msgstr "Flotter à droite"
+
+#: admin-settings.php:239
+#@ mp3-jplayer
+msgid "Margins:"
+msgstr "Marges:"
+
+#: admin-settings.php:240
+#@ mp3-jplayer
+msgid "Above players"
+msgstr "Au-dessus des lecteurs"
+
+#: admin-settings.php:244
+#@ mp3-jplayer
+msgid "Inner margin (floated players)"
+msgstr "Marge interne (lecteurs flottants)"
+
+#: admin-settings.php:248
+#@ mp3-jplayer
+msgid "Below players"
+msgstr "En-dessous des lecteurs"
+
+#: admin-settings.php:255
+#@ mp3-jplayer
+msgid "Max playlist height:"
+msgstr "Hauteur max playlist"
+
+#: admin-settings.php:259
+#@ mp3-jplayer
+msgid "A scroll bar will show for longer playlists, leave it blank for no limit."
+msgstr "Une barre de défilement apparaitra pour des playlists trop long, laisser en blanc pour illimité."
+
+#: admin-settings.php:265
+#@ mp3-jplayer
+msgid "Show sub titles in playlists"
+msgstr "Afficher des sous-titres dans les playlists"
+
+#: admin-settings.php:269
+#@ mp3-jplayer
+msgid "Start with playlists open"
+msgstr "Commencer avec des playlists ouverts"
+
+#: admin-settings.php:273
+#@ mp3-jplayer
+msgid "Show popout player button"
+msgstr "Afficher le bouton du lecteur popout"
+
+#: admin-settings.php:289
+#@ mp3-jplayer
+msgid "Initial volume:"
+msgstr "Volume initial:"
+
+#: admin-settings.php:294
+#@ mp3-jplayer
+msgid "Number the tracks"
+msgstr "Nombre de pistes"
+
+#: admin-settings.php:297
+#@ mp3-jplayer
+msgid "Auto play"
+msgstr "Lecture automatique"
+
+#: admin-settings.php:301
+#@ mp3-jplayer
+msgid "Loop playlist"
+msgstr "Playlist en boucle"
+
+#: admin-settings.php:304
+#@ mp3-jplayer
+msgid "Resume playback"
+msgstr "Reprendre la lecture"
+
+#: admin-settings.php:306
+#@ mp3-jplayer
+msgid "Note that Resume and Auto play are prevented by many devices, these will activate on desktops and laptops only."
+msgstr "Notez que la Reprise de la lecture et la lecture Automatique sont interdits par de nombreux dispositifs, ceux-ci seront activés sur les ordinateurs de bureau et les ordinateurs portables uniquement."
+
+#: admin-settings.php:306
+#: admin-settings.php:320
+#: admin-settings.php:492
+#: admin-settings.php:521
+#@ mp3-jplayer
+msgid "Help"
+msgstr "Aide"
+
+#: admin-settings.php:309
+#@ mp3-jplayer
+msgid "Resume Playback"
+msgstr "Reprise de la lecture"
+
+#: admin-settings.php:310
+#@ mp3-jplayer
+msgid "This gives near-continuous listening when browsing the site (there will be a short pause as the next page loads). Resuming will work wherever you have used the same piece of audio on different pages on the site."
+msgstr "Cela donne une écoute quasi-continue lorsque vous naviguez sur le site (il y aura une courte pause lors du chargement de la page suivante). La reprise fonctionnera partout où vous avez utilisé le même morceau audio sur les différentes pages du site."
+
+#: admin-settings.php:311
+#@ mp3-jplayer
+msgid "Auto Play"
+msgstr "Lecture Automatique"
+
+#: admin-settings.php:312
+#@ mp3-jplayer
+msgid "If you set multiple players on a page to autoplay then they will play their playlists in sequence one after the other."
+msgstr "Si vous définissez plusieurs lecteurs sur une page pour une lecture automatique alors ils vont jouer leurs listes de lecture en séquence l'un après l'autre."
+
+#: admin-settings.php:318
+#@ mp3-jplayer
+msgid "Auto-find counterpart files"
+msgstr "Trouver automatiquement des fichiers équivalents"
+
+#: admin-settings.php:320
+#@ mp3-jplayer
+msgid "This will pick up a fallback format if it's in the same location as the playlisted track, based on a filename match."
+msgstr "Un format de secours sera sélectionné si cela se trouve dans le même endroit que la piste sélectionnée, sur la base d'une concordance de nom de fichier."
+
+#: admin-settings.php:322
+#@ mp3-jplayer
+msgid "With this option ticked, the plugin will automatically look for counterpart files for any players on a page. The playlisted (primary) track must be from the MPEG family (an mp3, m4a, or mp4 file)."
+msgstr "Avec cette option cochée, le plugin va automatiquement rechercher des fichiers équivalents pour tous les lecteurs dans une page. La (première) piste sélectionné doit être du type MPEG (un fichier mp3, m4a, ou mp4)."
+
+#: admin-settings.php:323
+#@ mp3-jplayer
+msgid "Auto-counterparting works for MPEGS in the library, in local folders, and when using bulk play or FEED commands. Just make sure your counterparts have the same filename, and are in the same location as the primary track."
+msgstr "La recherche automatique d'équivalent fonctionne pour des MPEGS situés dans la bibliothèque, dans des dossiers locaux, et lors de l'utilisation de lecture en masse ou par commandes FEED. Assurez -vous que vos équivalents ont le même nom de fichier et sont dans le même endroit que la piste principale."
+
+#: admin-settings.php:324
+#@ mp3-jplayer
+msgid "You can always manually add a counterpart to any primary track format by using the <code>counterpart</code> parameter in a shortcode and specifying a url."
+msgstr "Vous pouvez toujours ajouter manuellement un équivalent à tout format de piste principale en utilisant le paramètre <code>conterpart</code> dans un shortcode et en spécifiant une URL."
+
+#: admin-settings.php:325
+#@ mp3-jplayer
+msgid "Automatic Counterparts are chosen with the following format priority: OGG, WEBM, WAV."
+msgstr "La recherche automatique d'équivalents est faite avec la priorité de format suivant: OGG, WEBM, WAV."
+
+#: admin-settings.php:336
+#@ mp3-jplayer
+msgid "NOTE: jQuery and UI scripts are turned off."
+msgstr "NOTE : jQuery et les scripts UI sont désactivés."
+
+#: admin-settings.php:340
+#@ mp3-jplayer
+msgid "Get Started:"
+msgstr "Pour commencer:"
+
+#: admin-settings.php:341
+#@ mp3-jplayer
+msgid "Upload some audio"
+msgstr "Ajouter de l'audio"
+
+#: admin-settings.php:342
+#@ mp3-jplayer
+msgid "How to add players"
+msgstr "Comment ajouter des lecteurs"
+
+#: admin-settings.php:343
+#@ mp3-jplayer
+msgid "Audio Format Help"
+msgstr "Aide sur format audio"
+
+#: admin-settings.php:347
+#@ mp3-jplayer
+msgid "More Info:"
+msgstr "Plus d'info:"
+
+#: admin-settings.php:348
+#@ mp3-jplayer
+msgid "Help & Docs main page"
+msgstr "Page principale Documentations et Aide"
+
+#: admin-settings.php:349
+#@ mp3-jplayer
+msgid "Shortcode Reference"
+msgstr "Référence Shortcode"
+
+#: admin-settings.php:352
+#@ mp3-jplayer
+msgid "Plugin home page"
+msgstr "Page d'accueil du plugin"
+
+#: admin-settings.php:353
+#@ mp3-jplayer
+msgid "Version"
+msgstr "Version"
+
+#: admin-settings.php:368
+#@ mp3-jplayer
+msgid "Library"
+msgstr "Bibliothèque"
+
+#: admin-settings.php:369
+#@ mp3-jplayer
+msgid "Choose which title information to show in the players and playlists when playing from your WordPress Media Library."
+msgstr "Choisir le titre des informations à afficher dans les lecteurs et les listes de lecture lors de la lecture de votre Bibliothèque  Media WordPress."
+
+#: admin-settings.php:376
+#@ mp3-jplayer
+msgid "Main Titles"
+msgstr "Titres Principaux"
+
+#: admin-settings.php:378
+#@ mp3-jplayer
+msgid "Track Title"
+msgstr "Titre de la piste"
+
+#: admin-settings.php:379
+#: admin-settings.php:390
+#@ mp3-jplayer
+msgid "Artist"
+msgstr "Artiste"
+
+#: admin-settings.php:380
+#: admin-settings.php:391
+#@ mp3-jplayer
+msgid "Album"
+msgstr "Album"
+
+#: admin-settings.php:382
+#: admin-settings.php:393
+#@ mp3-jplayer
+msgid "Upload Date"
+msgstr "Date de mise en ligne"
+
+#: admin-settings.php:386
+#@ mp3-jplayer
+msgid "Secondary Titles"
+msgstr "Titres secondaires"
+
+#: admin-settings.php:388
+#@ mp3-jplayer
+msgid "- None -"
+msgstr "- Sans -"
+
+#: admin-settings.php:389
+#: admin-settings.php:558
+#@ mp3-jplayer
+msgid "Title"
+msgstr "Titre"
+
+#: admin-settings.php:405
+#@ mp3-jplayer
+msgid "View Files"
+msgstr "Voir Fichiers"
+
+#: admin-settings.php:406
+#@ mp3-jplayer
+msgid "Upload Audio"
+msgstr "Télécharger Audio"
+
+#: admin-settings.php:421
+#@ mp3-jplayer
+msgid "rows per page"
+msgstr "lignes par page"
+
+#: admin-settings.php:423
+#@ mp3-jplayer
+msgid "Refresh"
+msgstr "rafraîchir"
+
+#: admin-settings.php:483
+#@ default
+msgid "Unable to read or locate the foldermp3-jplayer"
+msgstr ""
+
+#: admin-settings.php:483
+#@ mp3-jplayer
+msgid "check the path and folder permissions."
+msgstr "vérifier les autorisations de chemin et de dossiers."
+
+#: admin-settings.php:486
+#@ mp3-jplayer
+msgid "No info is available on remote folders but you can play from here if you know the filenames"
+msgstr "Aucune info n'est disponible sur les dossiers à distance, mais vous pouvez lancer à partir d'ici si vous connaissez les noms des fichiers"
+
+#: admin-settings.php:491
+#@ mp3-jplayer
+msgid "Default Folder"
+msgstr "Dossier par défaut"
+
+#: admin-settings.php:492
+#@ mp3-jplayer
+msgid "Set a folder path or url below."
+msgstr "Définir un chemin de dossier ou l'URL ci-dessous."
+
+#: admin-settings.php:495
+#@ mp3-jplayer
+msgid "If you like, you can specify a location (local or remote) to play some of your audio from. For example:"
+msgstr "Si vous le souhaitez, vous pouvez spécifier un emplacement ( local ou distant ) à partir duquel lancer votre fichier audio. Par exemple:"
+
+#: admin-settings.php:497
+#@ mp3-jplayer
+msgid "This means you only need to write the filenames in playlists to play from this location (you don't need to use the full url)."
+msgstr "Cela signifie que vous avez seulement besoin d'écrire les noms de fichiers dans des listes de lecture à jouer à cet endroit (vous ne devez pas utiliser l' URL complète )."
+
+#: admin-settings.php:498
+#@ mp3-jplayer
+msgid "If the path is local (on your domain) then you can also bulk-play this folder."
+msgstr "Si le chemin est local ( sur votre domaine ), vous pouvez également lancer en masse à partir de ce dossier."
+
+#: admin-settings.php:504
+#@ mp3-jplayer
+msgid "Folder Path"
+msgstr "Chemin du dossier"
+
+#: admin-settings.php:506
+#@ mp3-jplayer
+msgid "View files"
+msgstr "Voir les fichiers"
+
+#: admin-settings.php:519
+#@ mp3-jplayer
+msgid "Bulk-Play Settings"
+msgstr "Paramètres du lancement en masse"
+
+#: admin-settings.php:520
+#@ mp3-jplayer
+msgid "Choose which audio formats are playlisted when bulk-playing from folders, the library, and via the FEED command in playlists."
+msgstr "Choisir quels formats audio sont sélectionnés lors de la lecture en masse à partir de ces dossiers, de la bibliothèque, et via la commande FEED dans les playlists."
+
+#: admin-settings.php:524
+#@ mp3-jplayer
+msgid "Use a simple shortcode in your posts and pages to playlist entire folders that are on your domain. You can also play your entire library."
+msgstr "Utiliser un simple shortcode dans vos messages et pages pour mettre en playlist des dossiers entiers de votre domaine. Vous pouvez également jouer l'ensemble de votre bibliothèque."
+
+#: admin-settings.php:526
+#@ mp3-jplayer
+msgid "Play all audio in your library"
+msgstr "Lancer tous les fichiers audio de votre bibliothèque"
+
+#: admin-settings.php:529
+#@ mp3-jplayer
+msgid "Play all audio in your default folder"
+msgstr "Lancer tous les fichiers audio de votre dossier par défaut"
+
+#: admin-settings.php:532
+#@ mp3-jplayer
+msgid "Play all audio from the folder"
+msgstr "Lancer tous les fichiers audio à partir du dossier"
+
+#: admin-settings.php:535
+#@ mp3-jplayer
+msgid "Control which of your file types get picked up using the tickboxes below."
+msgstr "Choisir lequel de vos types de fichiers seront sélectionnés à l'aide des cases à cocher ci-dessous."
+
+#: admin-settings.php:550
+#@ mp3-jplayer
+msgid "Set the ordering for the playlists when bulk playing."
+msgstr "Établir l'ordre pour les playlists lors d'une lecture en masse."
+
+#: admin-settings.php:554
+#@ mp3-jplayer
+msgid "Library:"
+msgstr "Bibliothèque:"
+
+#: admin-settings.php:555
+#: admin-settings.php:574
+#@ mp3-jplayer
+msgid "Order by"
+msgstr "Trier par"
+
+#: admin-settings.php:559
+#@ mp3-jplayer
+msgid "Sub-title, Title"
+msgstr "Sous-titre, Titre"
+
+#: admin-settings.php:560
+#: admin-settings.php:577
+#@ mp3-jplayer
+msgid "Filename"
+msgstr "Nom de fichier"
+
+#: admin-settings.php:561
+#: admin-settings.php:578
+#@ mp3-jplayer
+msgid "Date Uploaded"
+msgstr "Date de mise en ligne"
+
+#: admin-settings.php:564
+#: admin-settings.php:581
+#@ mp3-jplayer
+msgid "Direction"
+msgstr "Direction"
+
+#: admin-settings.php:567
+#: admin-settings.php:584
+#@ mp3-jplayer
+msgid "Asc"
+msgstr "Asc"
+
+#: admin-settings.php:568
+#: admin-settings.php:585
+#@ mp3-jplayer
+msgid "Desc"
+msgstr "Desc"
+
+#: admin-settings.php:573
+#@ mp3-jplayer
+msgid "Folders:"
+msgstr "Dossiers"
+
+#: admin-settings.php:601
+#@ mp3-jplayer
+msgid "Download buttons are shown on playlist players, use these options to set their behavior."
+msgstr "Les boutons de téléchargement sont affichés sur les lecteurs, utiliser ces options pour définir leur comportement "
+
+#: admin-settings.php:605
+#@ mp3-jplayer
+msgid "Show Download Button"
+msgstr "Afficher le Bouton Téléchargement"
+
+#: admin-settings.php:607
+#: widget-ui.php:326
+#@ mp3-jplayer
+msgid "Yes"
+msgstr "Oui"
+
+#: admin-settings.php:608
+#: widget-ui.php:327
+#@ mp3-jplayer
+msgid "No"
+msgstr "Non"
+
+#: admin-settings.php:609
+#@ mp3-jplayer
+msgid "To logged in users"
+msgstr "Pour les utilisateurs connectés"
+
+#: admin-settings.php:613
+#@ mp3-jplayer
+msgid "Button Text"
+msgstr "Bouton Texte"
+
+#: admin-settings.php:630
+#@ mp3-jplayer
+msgid "When setting players for logged-in downloads, optionally set the text/link for any logged out visitors."
+msgstr "Lors de la configuration des lecteurs pour les téléchargements connectés, définir éventuellement le texte/lien pour les visiteurs non connectés."
+
+#: admin-settings.php:634
+#@ mp3-jplayer
+msgid "Visitor Text"
+msgstr "Texte Visiteur"
+
+#: admin-settings.php:640
+#@ mp3-jplayer
+msgid "Visitor Link"
+msgstr "Lien Visiteur"
+
+#: admin-settings.php:643
+#@ mp3-jplayer
+msgid "Optional URL for the visitor text"
+msgstr "URL optionnel du texte pour les visiteurs"
+
+#: admin-settings.php:652
+#@ mp3-jplayer
+msgid "Use Smooth Downloading"
+msgstr "Utiliser le téléchargement continu"
+
+#: admin-settings.php:656
+#@ mp3-jplayer
+msgid "This option makes downloading seamless for most users, or it will display a dialog box with a link when a seamless download is not possible."
+msgstr "Cette option permet un téléchargement ininterrompu pour la plupart des utilisateurs, sinon une boîte de dialogue sera affichée avec un lien lorsqu'un téléchargement sans coupure est impossible."
+
+#: admin-settings.php:666
+#@ mp3-jplayer
+msgid "Path to remote downloader file"
+msgstr "Chemin du fichier à télécharger à distance"
+
+#: admin-settings.php:672
+#@ mp3-jplayer
+msgid "If you play from other domains and want smooth downloads, then use the field above to specify a path to the downloader file."
+msgstr "Si vous lancer à partir d'autres domaines et que vous souhaitez des téléchargements ininterrompus, alors utilisez le champ ci-dessus pour spécifier un chemin vers le fichier à télécharger."
+
+#: admin-settings.php:682
+#@ mp3-jplayer
+msgid "Set the default text displayed on popout buttons."
+msgstr "Définir le texte par défaut affiché sur les boutons popout."
+
+#: admin-settings.php:685
+#@ mp3-jplayer
+msgid "Launch Button Text"
+msgstr "Texte du bouton Lancer"
+
+#: admin-settings.php:692
+#@ mp3-jplayer
+msgid "Popout window settings."
+msgstr "Paramètres de la fenêtre popout."
+
+#: admin-settings.php:695
+#@ mp3-jplayer
+msgid "Window Width"
+msgstr "Largeur de la fenêtre"
+
+#: admin-settings.php:699
+#@ mp3-jplayer
+msgid "Window Height"
+msgstr "Hauteur de la fenêtre"
+
+#: admin-settings.php:700
+#@ mp3-jplayer
+msgid "a scroll bar will show for longer playlists"
+msgstr "une barre de défilement sera affichée pour des playlists trop long"
+
+#: admin-settings.php:703
+#@ mp3-jplayer
+msgid "Background Colour"
+msgstr "Couleur de fond"
+
+#: admin-settings.php:707
+#@ mp3-jplayer
+msgid "Background Image"
+msgstr "Image de fond"
+
+#: admin-settings.php:719
+#@ mp3-jplayer
+msgid "Show players to:"
+msgstr "Afficher les lecteurs à:"
+
+#: admin-settings.php:721
+#@ mp3-jplayer
+msgid "All Visitors"
+msgstr "Tous les Visiteurs"
+
+#: admin-settings.php:722
+#@ mp3-jplayer
+msgid "Logged in users only"
+msgstr "Utilisateurs connectés seulement"
+
+#: admin-settings.php:729
+#@ mp3-jplayer
+msgid "Choose which aspects of your content you'd like MP3-jPlayer to handle."
+msgstr "Choisir les aspects de votre contenu vous souhaitez que MP3-jPlayer s'occupe."
+
+#: admin-settings.php:733
+#@ mp3-jplayer
+msgid "Audio Players"
+msgstr "Lecteurs Audio"
+
+#: admin-settings.php:734
+#@ mp3-jplayer
+msgid "Use the 'Add Media' Button on post/page edit screens and choose 'Embed Player' from the right select (WP 3.6+)."
+msgstr "Utiliser le bouton 'Ajouter Media' sur les écrans d'édition du post/de la page et choisir 'Lecteur Intégré' dans la sélection de droite  (WP 3.6+)."
+
+#: admin-settings.php:739
+#@ mp3-jplayer
+msgid "Use the 'Add Media' Button on post/page edit screens and choose 'Audio Playlist' from the left menu (WP 3.9+)."
+msgstr "Utiliser le bouton 'Ajouter Media' sur les écrans d'édition du post/de la page et choisir ''Playlist Audio' dans la sélection de gauche (WP 3.6+)."
+
+#: admin-settings.php:743
+#@ mp3-jplayer
+msgid "Links to Audio Files"
+msgstr "Liens vers les fichiers audio"
+
+#: admin-settings.php:744
+#@ mp3-jplayer
+msgid "Links within post/page content will be turned into players using the shortcode specified under the 'Advanced' tab."
+msgstr "Les liens dans le contenu du post/de la page seront transformés en lecteurs en utilisant le shortcode spécifié sous l' onglet «Avancé»."
+
+#: admin-settings.php:748
+#@ mp3-jplayer
+msgid "Attached Audio"
+msgstr "Fichiers Audio attachés"
+
+#: admin-settings.php:749
+#@ mp3-jplayer
+msgid "Use the shortcode <code>[audio]</code> in posts and pages to playlist any attached audio."
+msgstr "Utiliser le shortcode <code>[ audio]</code> dans les posts et les pages pour mettre en playlist tous les fichiers audio attachés."
+
+#: admin-settings.php:753
+#@ mp3-jplayer
+msgid "URLs"
+msgstr "URLs"
+
+#: admin-settings.php:754
+#@ mp3-jplayer
+msgid "Paste urls directly into posts and pages (WP 3.6+)."
+msgstr "Coller les urls directement dans les posts et les pages (WP 3.6+)."
+
+#: admin-settings.php:758
+#@ mp3-jplayer
+msgid "You can always use MP3-jPlayer's own shortcodes and widgets regardless of the above settings."
+msgstr "Vous pouvez toujours utiliser vos propres shortcodes et widgets de MP3-jplayer quels que soient les paramètres ci-dessus."
+
+#: admin-settings.php:762
+#@ mp3-jplayer
+msgid "On pages like Index, Archive and Search pages, choose whether players should be seen within the results. These settings won't affect player widgets."
+msgstr "Sur les pages comme Index, Archive et pages de Recherche, choisir si les lecteurs doivent être vus dans les résultats. Ces paramètres ne concernent pas les widgets du lecteur."
+
+#: admin-settings.php:764
+#@ mp3-jplayer
+msgid "Show players when the full content is used."
+msgstr "Afficher les lecteurs lorsque le contenu complet est utilisé."
+
+#: admin-settings.php:766
+#@ mp3-jplayer
+msgid "Show players when excerpts (short summaries) are used."
+msgstr "Afficher les lecteurs lorsque des extraits ( des résumés courts ) sont utilisés."
+
+#: admin-settings.php:768
+#@ mp3-jplayer
+msgid "NOTE: You will need to manually write your post excerpts for this to work. Write your shortcodes into the excerpt field on post edit screens."
+msgstr "NOTE : Vous aurez besoin d'écrire manuellement vos extraits de post pour que cela fonctionne. Écrivez vos shortcodes dans le champ extrait sur ​​les écrans post-édition."
+
+#: admin-settings.php:772
+#@ mp3-jplayer
+msgid "Conversion Options"
+msgstr "Options de conversion"
+
+#: admin-settings.php:775
+#@ mp3-jplayer
+msgid "<strong>Turn</strong> <code>[audio]</code> <strong>shortcodes into</strong>:"
+msgstr "<strong>Modifier les shortcodes en</strong> <code>[audio]</code>:"
+
+#: admin-settings.php:778
+#@ mp3-jplayer
+msgid "Single Players - Graphic"
+msgstr "Lecteurs Simple - Graphique"
+
+#: admin-settings.php:779
+#@ mp3-jplayer
+msgid "Single Players - Text"
+msgstr "Lecteurs Simple - Texte"
+
+#: admin-settings.php:781
+#: admin-settings.php:790
+#@ mp3-jplayer
+msgid "Popout Links"
+msgstr "Liens Popout"
+
+#: admin-settings.php:786
+#@ mp3-jplayer
+msgid "<strong>Turn</strong> <code>[playlist]</code> <strong>shortcodes into</strong>:"
+msgstr "<strong>Modifier les shortcodes en</strong> <code>[playlist]</code>"
+
+#: admin-settings.php:795
+#@ mp3-jplayer
+msgid "Turn converted links into"
+msgstr "Modifier les liens convertis en"
+
+#: admin-settings.php:801
+#@ mp3-jplayer
+msgid "Placeholders: <code>{TEXT}</code> - Link text, <code>{URL}</code> - Link url."
+msgstr "Emplacements: <code>{TEXT}</code> - Lien texte, <code>{URL}</code> - Lien url."
+
+#: admin-settings.php:802
+#@ mp3-jplayer
+msgid "This field can also include arbitrary text/html."
+msgstr "Ce champ peut également inclure du texte/html choisi."
+
+#: admin-settings.php:809
+#@ mp3-jplayer
+msgid "Misc File Settings"
+msgstr "Paramètres Fichier divers"
+
+#: admin-settings.php:811
+#@ mp3-jplayer
+msgid "Allow position seeking beyond buffered"
+msgstr "Permettre la recherche de position au-delà du buffer"
+
+#: admin-settings.php:813
+#@ mp3-jplayer
+msgid "Lets users seek to end of tracks without waiting for media to load. Most servers should allow this by default, if you are having issues then check that your server has the <code>accept-ranges: bytes</code> header set, or you can just switch this option off."
+msgstr "Permet aux utilisateurs  de chercher la fin à des pistes sans attendre le chargement du media. La plupart des serveurs devraient permettre cela par défaut, si vous rencontrez des problèmes alors vérifier que votre serveur a le <code>accept-ranges: bytes</code> activé dans l'en-tête, sinon vous pouvez simplement désactiver cette option."
+
+#: admin-settings.php:815
+#@ mp3-jplayer
+msgid "Hide file extensions if a filename is displayed"
+msgstr "Masquer les extensions de fichier si un nom de fichier est affiché"
+
+#: admin-settings.php:816
+#@ mp3-jplayer
+msgid "Filenames are displayed when there's no available titles."
+msgstr "Les noms de fichiers sont affichés quand il n'y a pas de titres disponibles."
+
+#: admin-settings.php:818
+#@ mp3-jplayer
+msgid "Encode URLs"
+msgstr "Encode URLs"
+
+#: admin-settings.php:819
+#@ mp3-jplayer
+msgid "Provides some obfuscation of your urls in the page source."
+msgstr "Fournit un certain brouillage de vos urls dans la source de la page."
+
+#: admin-settings.php:821
+#@ mp3-jplayer
+msgid "Allow playing of off-site files"
+msgstr "Permet la lecture de fichiers hors site"
+
+#: admin-settings.php:822
+#@ mp3-jplayer
+msgid "Un-checking this option filters out any files coming from other domains, but doesn't affect ability to play from a remote default path if one has been set above."
+msgstr "Décocher cette option filtre les fichiers provenant d'autres domaines, mais n'affecter pas la capacité de lancer à partir d'un chemin par défaut à distance s'il a été défini ci-dessus."
+
+#: admin-settings.php:829
+#@ mp3-jplayer
+msgid "Misc Player Settings"
+msgstr "Paramètres Lecteur Divers"
+
+#: admin-settings.php:830
+#@ mp3-jplayer
+msgid "Show player error messages"
+msgstr "Afficher les messages d'erreur du lecteur"
+
+#: admin-settings.php:833
+#@ mp3-jplayer
+msgid "Never"
+msgstr "Jamais"
+
+#: admin-settings.php:834
+#@ mp3-jplayer
+msgid "To Admins only"
+msgstr "Seulement aux Admins"
+
+#: admin-settings.php:835
+#@ mp3-jplayer
+msgid "To All"
+msgstr "A tout le monde"
+
+#: admin-settings.php:841
+#@ mp3-jplayer
+msgid "Playlist Separator Settings"
+msgstr "Paramètres du séparateur de playlist"
+
+#: admin-settings.php:843
+#@ mp3-jplayer
+msgid "If you manually write playlists then you can choose the separators you use in the tracks and captions lists."
+msgstr "Si vous écrivez manuellement les playlists alors vous pouvez choisir les séparateurs que vous utiliserez dans les pistes et les légendes."
+
+#: admin-settings.php:844
+#@ mp3-jplayer
+msgid "<strong>CAUTION!!</strong> You'll need to manually update any existing playlists if you change the separators!"
+msgstr "<strong>ATTENTION !!</strong> Vous aurez besoin de mettre à jour manuellement toutes les playlists existantes si vous changez les séparateurs !"
+
+#: admin-settings.php:846
+#@ mp3-jplayer
+msgid "Files:"
+msgstr "Fichiers:"
+
+#: admin-settings.php:848
+#: admin-settings.php:856
+#@ mp3-jplayer
+msgid "(comma)"
+msgstr "(virgule)"
+
+#: admin-settings.php:849
+#: admin-settings.php:857
+#@ mp3-jplayer
+msgid "(semicolon)"
+msgstr "(point-virgule)"
+
+#: admin-settings.php:850
+#: admin-settings.php:858
+#@ mp3-jplayer
+msgid "(3 hashes)"
+msgstr "(3 dièses)"
+
+#: admin-settings.php:852
+#: admin-settings.php:860
+#@ mp3-jplayer
+msgid "eg."
+msgstr "eg."
+
+#: admin-settings.php:854
+#@ mp3-jplayer
+msgid "Captions:"
+msgstr "Légendes:"
+
+#: admin-settings.php:866
+#@ mp3-jplayer
+msgid "Developer Settings"
+msgstr "Paramètres Développeur"
+
+#: admin-settings.php:868
+#@ mp3-jplayer
+msgid "Turn on debug"
+msgstr "Activer debug"
+
+#: admin-settings.php:869
+#@ mp3-jplayer
+msgid "Info appears in the source view near the bottom."
+msgstr "L'info apparait près du bas lors de la visualisation de la source"
+
+#: admin-settings.php:874
+#@ mp3-jplayer
+msgid "Disable jQuery and jQuery-UI javascript libraries?"
+msgstr "Désactiver les bibliothèques de javascript jQuery et jQuery-UI?"
+
+#: admin-settings.php:875
+#@ mp3-jplayer
+msgid "<strong>CAUTION!!</strong> This option will bypass the request <strong>from this plugin only</strong> for both jQuery <strong>and</strong> jQuery-UI scripts, you <strong>MUST</strong> be providing these scripts from an alternative source."
+msgstr "<strong>ATTENTION !!</strong> Cette option contournera la demande <strong> à partir de ce plugin seulement </strong> pour les deux jQuery <strong> et </strong> scripts jQuery-UI, vous <strong> DEVEZ</strong> fournir ces scripts à partir d'une autre source"
+
+#: admin-settings.php:876
+#@ mp3-jplayer
+msgid "Type <code>yes</code> in the box and save settings to bypass jQuery and jQuery-UI."
+msgstr "Taper <code>oui</code> dans la boîte et enregistrer les paramètres pour désactiver jQuery et jQuery-UI."
+
+#: admin-settings.php:890
+#@ mp3-jplayer
+msgid "Remember settings if plugin is deactivated"
+msgstr "Se souvenir des paramètres lorsque le plugin est désactivé"
+
+#: frontend.php:99
+#@ default
+msgid "Settings"
+msgstr ""
+
+#: widget-sh.php:17
+#@ mp3-jplayer
+msgid "Add audio players by writing shortcodes."
+msgstr "Ajouter des lecteurs audio en écrivant des shortcodes"
+
+#: widget-sh.php:22
+#@ mp3-jplayer
+msgid "MP3-jPlayer|Shortcodes"
+msgstr "MP3-jPlayer|Shortcodes"
+
+#: widget-sh.php:86
+#@ mp3-jplayer
+msgid "Shortcodes:"
+msgstr "Shortcodes:"
+
+#: widget-sh.php:89
+#: widget-ui.php:361
+#@ mp3-jplayer
+msgid "Widget Heading:"
+msgstr "En-tête Widget :"
+
+#: widget-sh.php:92
+#: widget-ui.php:367
+#@ mp3-jplayer
+msgid "Page Filter:"
+msgstr "Filtre Page:"
+
+#: widget-sh.php:93
+#: widget-ui.php:368
+#@ mp3-jplayer
+msgid "Include"
+msgstr "Inclure"
+
+#: widget-sh.php:95
+#: widget-ui.php:370
+#@ mp3-jplayer
+msgid "or"
+msgstr "ou"
+
+#: widget-sh.php:97
+#: widget-ui.php:372
+#@ mp3-jplayer
+msgid "Exclude"
+msgstr "Exclure"
+
+#: widget-sh.php:100
+#: widget-ui.php:375
+#@ mp3-jplayer
+msgid "A comma separated list, it can contain <code>index</code>, <code>archive</code>, <code>post</code>, <code>search</code>, and any <strong>post IDs</strong>."
+msgstr "Une liste séparée par des virgules peut contenir <code>index</code>, <code>archive</code>, <code>post</code>, <code>Recherche</code>, et tout <strong>post IDs</strong>."
+
+#: widget-ui.php:17
+#@ mp3-jplayer
+msgid "Adds a playlist player. Choose playback mode and options."
+msgstr "Ajoute un lecteur de playlist. Sélectionner les options et le type de lecture"
+
+#: widget-ui.php:22
+#@ mp3-jplayer
+msgid "MP3-jPlayer|Playlister"
+msgstr "MP3-jPlayer|Playlister"
+
+#: widget-ui.php:227
+#@ mp3-jplayer
+msgid "Play Mode:"
+msgstr "Type de Lecture:"
+
+#: widget-ui.php:229
+#@ mp3-jplayer
+msgid "Play Attached audio"
+msgstr "Lancer les fichiers audios attachés"
+
+#: widget-ui.php:230
+#@ mp3-jplayer
+msgid "Automatically adds a player on SINGLE posts/pages when they have audio attachments."
+msgstr "Ajoute automatiquement un lecteur sur les posts/pages SINGLE quand ils ont des pièces jointes audio."
+
+#: widget-ui.php:233
+#@ mp3-jplayer
+msgid "Play Custom fields"
+msgstr "Lancer champs personnalisés"
+
+#: widget-ui.php:234
+#@ mp3-jplayer
+msgid "Automatically adds a player on SINGLE posts/pages, if you have used custom fields to make a playlist."
+msgstr "Ajoute automatiquement un lecteur sur les posts/pages SINGLE quand vous utilisez des champs personnalisés pour faire une playlist"
+
+#: widget-ui.php:237
+#@ mp3-jplayer
+msgid "Write a Playlist..."
+msgstr "Écrire une playlist..."
+
+#: widget-ui.php:238
+#@ mp3-jplayer
+msgid "A list of URLs, library/default folder filenames, or FEEDs, separated by"
+msgstr "Une liste d'URL, la bibliothèque/les noms de fichiers du dossier par défaut, ou FEEDs, séparés par"
+
+#: widget-ui.php:242
+#@ mp3-jplayer
+msgid "Generate Playlist..."
+msgstr "Générer une playlist..."
+
+#: widget-ui.php:245
+#@ mp3-jplayer
+msgid "My library"
+msgstr "Ma bibliothèque"
+
+#: widget-ui.php:261
+#@ mp3-jplayer
+msgid "There are no audio files here"
+msgstr "Il n'y a pas des fichiers audio ici"
+
+#: widget-ui.php:266
+#@ mp3-jplayer
+msgid "Folder not found, check path and permissions"
+msgstr "Dossier non trouvé, vérifier le chemin et les permissions"
+
+#: widget-ui.php:271
+#@ mp3-jplayer
+msgid "Remote or inaccessible folder"
+msgstr "Dossier à distance ou inaccessible"
+
+#: widget-ui.php:276
+#@ mp3-jplayer
+msgid "A folder:"
+msgstr "Un dossier:"
+
+#: widget-ui.php:283
+#@ mp3-jplayer
+msgid "Player Settings:"
+msgstr "Paramètres du Lecteur:"
+
+#: widget-ui.php:287
+#@ mp3-jplayer
+msgid "Autoplay"
+msgstr "Lancement automatique"
+
+#: widget-ui.php:290
+#@ mp3-jplayer
+msgid "Repeat"
+msgstr "Répéter"
+
+#: widget-ui.php:293
+#@ mp3-jplayer
+msgid "Show playlist"
+msgstr "Afficher la playlist"
+
+#: widget-ui.php:296
+#@ mp3-jplayer
+msgid "Show images"
+msgstr "Afficher les images"
+
+#: widget-ui.php:299
+#@ mp3-jplayer
+msgid "Stop button"
+msgstr "Bouton Stop"
+
+#: widget-ui.php:302
+#@ mp3-jplayer
+msgid "Prev/next"
+msgstr "Préc/suiv"
+
+#: widget-ui.php:307
+#@ mp3-jplayer
+msgid "Shuffle"
+msgstr "Mélanger"
+
+#: widget-ui.php:319
+#@ mp3-jplayer
+msgid "Pick"
+msgstr "Sélectionner"
+
+#: widget-ui.php:321
+#@ mp3-jplayer
+msgid "track(s)"
+msgstr "Piste(s)"
+
+#: widget-ui.php:324
+#@ mp3-jplayer
+msgid "Download"
+msgstr "Téléchargement"
+
+#: widget-ui.php:328
+#@ mp3-jplayer
+msgid "Logged in"
+msgstr "Connecté"
+
+#: widget-ui.php:332
+#@ mp3-jplayer
+msgid "Width"
+msgstr "Largeur"
+
+#: widget-ui.php:336
+#@ mp3-jplayer
+msgid "Height"
+msgstr "Hauteur"
+
+#: widget-ui.php:340
+#@ mp3-jplayer
+msgid "Align"
+msgstr "Aligner"
+
+#: widget-ui.php:345
+#@ mp3-jplayer
+msgid "Float left"
+msgstr "Flotter à gauche"
+
+#: widget-ui.php:346
+#@ mp3-jplayer
+msgid "Float right"
+msgstr "Flotter à droite"
+
+#: widget-ui.php:353
+#@ mp3-jplayer
+msgid "Style"
+msgstr "Style"
+

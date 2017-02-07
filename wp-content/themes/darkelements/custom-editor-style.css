@@ -1,0 +1,100 @@
+/*
+Used to style the post and page TinyMCE editor.
+*/
+
+
+/* IMPORT FONT */
+@import url(//fonts.googleapis.com/css?family=Open+Sans);
+
+
+/* RESET STYLESHEET */
+h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, ins, mark, 
+em, img, q, small, strong, sub, sup, b, dl, dt, dd, ol, ul, li, table, caption, tr, th, td {
+	margin:0;
+	padding:0;
+	border:0;
+	font-family:inherit;
+	font-size:100%;
+	font-style:inherit;
+	font-weight:inherit;
+	vertical-align:baseline;
+}
+
+blockquote, q {
+	quotes:none;
+}
+
+blockquote:before, blockquote:after, q:before, q:after {
+	content:'';
+	content:none;
+}
+
+table {
+	border-collapse:collapse;
+	border-spacing:0;
+}
+
+
+/* BODY */
+body {background:none; color:#333; font-family:'Open Sans', sans-serif; font-size:0.9em; line-height:1.5em; word-wrap:break-word;}
+
+
+/* HEADINGS */
+h1 {font-size:2.25em; line-height:1.25em;}
+h2 {font-size:1.80em; line-height:1.25em;}
+h3 {font-size:1.45em; line-height:1.5em;}
+h4 {font-size:1.20em; line-height:1.5em;}
+h5 {font-size:1em; line-height:1.5em;}
+h6 {font-size:0.80em; line-height:2em;}
+
+
+/* LINKS AND HTML TAGS */
+a {text-decoration:none; color:#999;}
+a:hover {text-decoration:underline;}
+
+strong, b {font-weight:bold;}
+small {font-size:0.80em;}
+big {font-size:1.20em;}
+sub {vertical-align:sub; font-size:0.9em;}
+sup {vertical-align:super; font-size:0.9em;}
+ins, mark {font-weight:bold; background:none; text-decoration:none; color:#999;}
+cite, em, abbr, acronym {font-style:italic;}
+code, kbd, samp, var {font-family:monospace, monospace;}
+pre {margin:10px 0; padding:5px 10px; white-space:pre-wrap; border:1px solid #999;}
+blockquote, q {margin:10px 0; padding:0 0 0 20px; display:block; font-size:1.2em; line-height:1.5em; font-style:italic; border-left:2px solid #999;}
+address {margin:10px 0; font-size:1.2em; line-height:1.5em; font-style:italic;}
+p {margin:0 0 10px;}
+
+
+/* ALIGNMENTS */
+.alignright {float:right;}
+.alignleft {float:left;}
+.aligncenter {display:block; margin-left:auto; margin-right:auto;}
+
+
+/* TABLE AND LISTS */
+table {margin:10px 0; border-collapse:collapse;}
+table, th, td {border:1px solid #999; padding:5px 10px;}
+table th {font-weight:bold;}
+
+ul {list-style:square; margin:10px 0;}
+ol {list-style:decimal; margin:10px 0;}
+li {margin:0 0 0 20px;}
+li > ul, li > ol {margin:0;}
+dl {margin:10px 0;}
+dt {font-weight:bold;}
+dd {margin:0 0 0 20px;}
+
+
+/* IMAGE AND VIDEO */
+img {max-width:100%; height:auto;}
+
+img.alignright {float:right; margin:0.4em 0 0.4em 1em;}
+img.alignleft {float:left; margin:0.4em 1em 0.4em 0;}
+img.aligncenter {display:block; margin:0.4em auto 0.4em auto;}
+
+.wp-caption {max-width:100%;}
+.wp-caption-text {text-align:center;}
+
+.gallery dl, .gallery dt, .gallery dd {margin:0; padding:0;}
+.gallery-caption {max-width:100%; text-align:center;}
