@@ -59,13 +59,13 @@ div.innertab { left:0px; top:0px; right:0px; bottom:42px; }
 	div.jp-play-time {	right:11px; bottom:56px; text-align:right; }  
 
 	div.statusMI { right:112px; left:0px; bottom:42px; height:11px; text-align:left; overflow:hidden;
-		background-image: url('/wp-content/plugins/mp3-jplayer/css/images/t40w.png'); 
+		background-image: url('https://www.carolsingershire.uk/wp-content/plugins/mp3-jplayer/css/images/t40w.png'); 
 		background-repeat: repeat; 
 		background-position:left top;
 	}
 	span.mp3-finding { 
 		position:absolute; top:0; left:0; bottom:0; right:0;
-		background:url('/wp-content/plugins/mp3-jplayer/css/images/loader.gif') repeat-x 0px -2px;
+		background:url('https://www.carolsingershire.uk/wp-content/plugins/mp3-jplayer/css/images/loader.gif') repeat-x 0px -2px;
 	}
 	span.mp3-tint { position:absolute; top:0; left:0; bottom:0; right:0; opacity:.3; filter:alpha(opacity=30); }
 	span.mjp-playing { display:none; }
@@ -78,7 +78,7 @@ div.innertab { left:0px; top:0px; right:0px; bottom:42px; }
 	
 /* BUTTONS */
 div.transport-MI { position:absolute; width:auto; height:38px; right:2px; bottom:2px; border:0; z-index:22; }
-	div.transport-MI div { float:right; cursor:pointer; margin-left:2px; background-image: url("/wp-content/plugins/mp3-jplayer/css/images/buttonset-darkplayer-grads8.png"); background-color:#303030; text-indent:-9999px !important; width:40px; height:38px;  }
+	div.transport-MI div { float:right; cursor:pointer; margin-left:2px; background-image: url("https://www.carolsingershire.uk/wp-content/plugins/mp3-jplayer/css/images/buttonset-darkplayer-grads8.png"); background-color:#303030; text-indent:-9999px !important; width:40px; height:38px;  }
 	div.transport-MI div:hover { background-color:#383838 !important; }
 	
 	div.play-mjp { background-position:-289px -77px; }
@@ -91,7 +91,7 @@ div.transport-MI { position:absolute; width:auto; height:38px; right:2px; bottom
 	.buttons-wrap-mjp div {
 		float:left;  
 		height:38px; 
-		background-image: url("/wp-content/plugins/mp3-jplayer/css/images/buttonset-darkplayer-grads8.png");
+		background-image: url("https://www.carolsingershire.uk/wp-content/plugins/mp3-jplayer/css/images/buttonset-darkplayer-grads8.png");
 		background-color:#303030;
 		background-repeat:no-repeat;
 		cursor:pointer;
@@ -168,7 +168,7 @@ div.transport-MI { position:absolute; width:auto; height:38px; right:2px; bottom
 .innerExt1, .innerExt2 { 
 	position:absolute; 
 	z-index:150;
-	background-image:url('/wp-content/plugins/mp3-jplayer/css/images/buttonset-darkplayer-grads8.png');
+	background-image:url('https://www.carolsingershire.uk/wp-content/plugins/mp3-jplayer/css/images/buttonset-darkplayer-grads8.png');
 	background-repeat:no-repeat;
 	top:0px;
 	height:10px;
@@ -185,7 +185,7 @@ div.mjp-volwrap { position:absolute; height:11px; bottom:40px; right:0px; width:
 	-webkit-border-top-right-radius: 2px; -moz-border-radius-topright: 2px; border-top-right-radius: 2px;
 }
 	div.MIsliderVolume, div.MIsliderVolume.ui-widget-content { position:absolute; top:-1px; right:1px; left:28px; height:11px; border:0 !important; font-size:1px; cursor:pointer; z-index:150; }
-	div.MIsliderVolume .ui-widget-header { background:transparent url('/wp-content/plugins/mp3-jplayer/css/images/volgrad-light.png') repeat-y 10px top; border-right:1px solid #808080; } 
+	div.MIsliderVolume .ui-widget-header { background:transparent url('https://www.carolsingershire.uk/wp-content/plugins/mp3-jplayer/css/images/volgrad-light.png') repeat-y 10px top; border-right:1px solid #808080; } 
 	div.MIsliderVolume .ui-slider-handle { display:none; }
 	div.mjp-volwrap:hover .ui-slider-handle, div.MIsliderVolume .ui-slider-handle:hover { display:none; }
 	div.MIsliderVolume .ui-state-active, div.MIsliderVolume .ui-widget-content .ui-state-active { display:none; }
@@ -220,9 +220,9 @@ div.mp3j-finfo {
 
 	div.mp3j-finfo * { font-family:Arial, Helvetica, sans-serif !important; }
 	div.mp3j-finfo-sleeve { position:relative !important; width:100%; height:100%; }
-		div.mp3j-finfo-gif { position:absolute !important; top:0; left:0; right:10%; bottom:0; background:url('/wp-content/plugins/mp3-jplayer/css/images/spinner.gif') no-repeat center 27px; width:auto; padding:0px; height:100%; }
+		div.mp3j-finfo-gif { position:absolute !important; top:0; left:0; right:10%; bottom:0; background:url('https://www.carolsingershire.uk/wp-content/plugins/mp3-jplayer/css/images/spinner.gif') no-repeat center 27px; width:auto; padding:0px; height:100%; }
 		div.mp3j-finfo-txt { position:relative !important; margin:0px 15px 0 15px !important; padding:10px 0 10px 0 !important; width:auto; }
-		div.mp3j-finfo-close { cursor:pointer; position:absolute !important; width:31px !important; height:27px !important; padding-top:5px !important; right:0 !important; top:0 !important; text-align:center !important; font-weight:700 !important; font-size:18px !important; line-height:22px !important; color:#aaa !important; border-bottom:1px solid #ccc !important; border-left:1px solid #ccc !important; background:url('/wp-content/plugins/mp3-jplayer/css/images/t40w.png') repeat left top !important; }
+		div.mp3j-finfo-close { cursor:pointer; position:absolute !important; width:31px !important; height:27px !important; padding-top:5px !important; right:0 !important; top:0 !important; text-align:center !important; font-weight:700 !important; font-size:18px !important; line-height:22px !important; color:#aaa !important; border-bottom:1px solid #ccc !important; border-left:1px solid #ccc !important; background:url('https://www.carolsingershire.uk/wp-content/plugins/mp3-jplayer/css/images/t40w.png') repeat left top !important; }
 		div.mp3j-finfo-close:hover { color:#888 !important; }
 		
 			div.mp3j-finfo-txt h2 { font-size:15px !important; color:#333 !important; margin:0 0 35px 0 !important; }
@@ -263,16 +263,16 @@ div.mp3j-finfo {
 		/* mp3t */
 			span.posbar_mp3j { position:absolute; width:100%; top:0px; bottom:0px; border:0; background:none !important; } 
 			span.posbar_mp3j .ui-widget-header { z-index:-500; }	
-			span.posbar_mp3j .ui-slider-handle {  background:url('/wp-content/plugins/mp3-jplayer/css/images/t40b.png') repeat; top:-1px; margin-left:-4px; border:1px solid #555; bottom:-8px; width:8px; z-index:500; cursor:default; padding:0px !important; -moz-border-radius:2px; -webkit-border-radius:2px; border-radius:2px; }
-			span.posbar_mp3j .ui-slider-handle:hover { background:url('/wp-content/plugins/mp3-jplayer/css/images/t40b.png') repeat; border-color:#202020; }
+			span.posbar_mp3j .ui-slider-handle {  background:url('https://www.carolsingershire.uk/wp-content/plugins/mp3-jplayer/css/images/t40b.png') repeat; top:-1px; margin-left:-4px; border:1px solid #555; bottom:-8px; width:8px; z-index:500; cursor:default; padding:0px !important; -moz-border-radius:2px; -webkit-border-radius:2px; border-radius:2px; }
+			span.posbar_mp3j .ui-slider-handle:hover { background:url('https://www.carolsingershire.uk/wp-content/plugins/mp3-jplayer/css/images/t40b.png') repeat; border-color:#202020; }
 			
 		/* mp3j */
 			span.posbarB_mp3j { position:absolute; width:100%; top:0px; bottom:0px; border:0; cursor:pointer; z-index:499; background:none !important; }
 			span.posbarB_mp3j .ui-widget-header { background:transparent !important; z-index:-500; height:100%; }	
 			span.posbarB_mp3j .ui-slider-handle { 
-				background:url('/wp-content/plugins/mp3-jplayer/css/images/t50b.png') repeat 0px 0px;
+				background:url('https://www.carolsingershire.uk/wp-content/plugins/mp3-jplayer/css/images/t50b.png') repeat 0px 0px;
 				top:-2px; bottom:-8px; margin-left:-4px; border:1px solid #555; width:8px; z-index:500; cursor:default; padding:0px !important; -moz-border-radius:2px; -webkit-border-radius:2px; border-radius:2px; }
-			span.posbarB_mp3j .ui-slider-handle:hover { background:url('/wp-content/plugins/mp3-jplayer/css/images/t50b.png') repeat 0px 0px; border-color:#202020; }
+			span.posbarB_mp3j .ui-slider-handle:hover { background:url('https://www.carolsingershire.uk/wp-content/plugins/mp3-jplayer/css/images/t50b.png') repeat 0px 0px; border-color:#202020; }
 	
 	/* SPAN TRANSPORT */
 		span.textbutton_mp3j, span.T_mp3j { position:relative; width:auto; padding:0px; background:none; margin:0 0px 0 0px; }
@@ -282,19 +282,19 @@ div.mp3j-finfo {
 			span.gfxbutton_mp3j.play-mjp, span.gfxbutton_mp3j.pause-mjp { 
 				padding:2px 0px 5px 10px; margin:0 5px 0px 5px; background-color:#404040; background-repeat:no-repeat; border-radius:2px; -moz-border-radius:2px; -webkit-border-radius:2px; border:0px solid #707070;
 			}
-			span.gfxbutton_mp3j.play-mjp { background-position:center center; background-image: url("/wp-content/plugins/mp3-jplayer/css/images/play.png"); }
+			span.gfxbutton_mp3j.play-mjp { background-position:center center; background-image: url("https://www.carolsingershire.uk/wp-content/plugins/mp3-jplayer/css/images/play.png"); }
 			span.gfxbutton_mp3j.play-mjp:hover { background-color:#303030; }
-			span.gfxbutton_mp3j.pause-mjp { background-position:center center; background-image: url("/wp-content/plugins/mp3-jplayer/css/images/pause.png"); }
+			span.gfxbutton_mp3j.pause-mjp { background-position:center center; background-image: url("https://www.carolsingershire.uk/wp-content/plugins/mp3-jplayer/css/images/pause.png"); }
 			span.gfxbutton_mp3j.pause-mjp:hover { background-color:#303030; } 
 		
 	/* VOLUMES */
 		span.vol_mp3t { position:absolute; top:-9px; right:5px; width:90%; max-width:85px; height:3px; border:0 !important; }
 		span.vol_mp3j { position:absolute; top:-11px; right:11px; width:85%; max-width:82px; height:3px; border:0 !important; }
 		span.vol_mp3j.flipped { right:4px; }
-			span.vol_mp3t .ui-widget-header, span.vol_mp3j .ui-widget-header { z-index:500; height:100% !important; -webkit-border-radius: 2px !important; -moz-border-radius: 2px !important; border-radius: 2px !important;  background:url('/wp-content/plugins/mp3-jplayer/css/images/volgrad-dark.png') repeat-y -30px top !important; }	
+			span.vol_mp3t .ui-widget-header, span.vol_mp3j .ui-widget-header { z-index:500; height:100% !important; -webkit-border-radius: 2px !important; -moz-border-radius: 2px !important; border-radius: 2px !important;  background:url('https://www.carolsingershire.uk/wp-content/plugins/mp3-jplayer/css/images/volgrad-dark.png') repeat-y -30px top !important; }	
 			
 			span.vol_mp3t .ui-slider-handle, span.vol_mp3j .ui-slider-handle { 
-				background:#404040 url('/wp-content/plugins/mp3-jplayer/css/images/buttonset-darkplayer-grads8.png') no-repeat -127px -125px; 
+				background:#404040 url('https://www.carolsingershire.uk/wp-content/plugins/mp3-jplayer/css/images/buttonset-darkplayer-grads8.png') no-repeat -127px -125px; 
 				height:10px !important; 
 				width:10px !important; 
 				padding:0px; 
@@ -316,7 +316,7 @@ div.mp3j-finfo {
 		-moz-border-radius:2px; -webkit-border-radius:2px; border-radius:2px;
 	}
 	
-	span.Smp3-finding { margin:0px 0px 0px 3px; background:url('/wp-content/plugins/mp3-jplayer/css/images/pulse.gif') repeat 0px 0px; }
+	span.Smp3-finding { margin:0px 0px 0px 3px; background:url('https://www.carolsingershire.uk/wp-content/plugins/mp3-jplayer/css/images/pulse.gif') repeat 0px 0px; }
 	span.mp3-gtint { margin:0px 2px 0px -12px; opacity:.5; filter:alpha(opacity=50); background:#777; -moz-border-radius:2px; -webkit-border-radius:2px; border-radius:2px; }
 	span.tintmarg	{ margin:0 2px 0 3px; }
 	
@@ -348,7 +348,7 @@ div.mp3j-finfo {
 	.popout-text-mjp { float:left; padding:0 15px; }
 	.popout-image-mjp { 
 		float:left;
-		background-image:url('/wp-content/plugins/mp3-jplayer/css/images/buttonset-darkplayer-grads8.png');
+		background-image:url('https://www.carolsingershire.uk/wp-content/plugins/mp3-jplayer/css/images/buttonset-darkplayer-grads8.png');
 		background-repeat:no-repeat; 
 		background-position:-396px -9px;
 		min-width:32px; 
@@ -431,47 +431,47 @@ div.mp3j-finfo {
 
 /* ===== playlist grads ===== */
 ul.lighten1-mjp {
-	background-image:		url('/wp-content/plugins/mp3-jplayer/css/images/pl-grad-w.png');
+	background-image:		url('https://www.carolsingershire.uk/wp-content/plugins/mp3-jplayer/css/images/pl-grad-w.png');
 	background-position:	left 0px;
 	background-repeat:		repeat-x;
 }
 ul.lighten2-mjp {
-	background-image:		url('/wp-content/plugins/mp3-jplayer/css/images/pl-grad-w-long.png');
+	background-image:		url('https://www.carolsingershire.uk/wp-content/plugins/mp3-jplayer/css/images/pl-grad-w-long.png');
 	background-position:	left 0px;
 	background-repeat:		repeat-x;
 }
 ul.darken1-mjp {
-	background-image:		url('/wp-content/plugins/mp3-jplayer/css/images/pl-grad-b.png');
+	background-image:		url('https://www.carolsingershire.uk/wp-content/plugins/mp3-jplayer/css/images/pl-grad-b.png');
 	background-position:	left 0px;
 	background-repeat:		repeat-x;
 }
 ul.darken2-mjp {
-	background-image:		url('/wp-content/plugins/mp3-jplayer/css/images/pl-grad-b-long.png');
+	background-image:		url('https://www.carolsingershire.uk/wp-content/plugins/mp3-jplayer/css/images/pl-grad-b-long.png');
 	background-position:	left 0px;
 	background-repeat:		repeat-x;
 }
 
 /* ===== playlist dividers ===== */
 
-ul.light-mjp li	{ background:url('/wp-content/plugins/mp3-jplayer/css/images/t60w.png') repeat-x left bottom; }
-ul.med-mjp li 	{ background:url('/wp-content/plugins/mp3-jplayer/css/images/t50l.png') repeat-x left bottom; }
-ul.dark-mjp li 	{ background:url('/wp-content/plugins/mp3-jplayer/css/images/t50g.png') repeat-x left bottom; }
+ul.light-mjp li	{ background:url('https://www.carolsingershire.uk/wp-content/plugins/mp3-jplayer/css/images/t60w.png') repeat-x left bottom; }
+ul.med-mjp li 	{ background:url('https://www.carolsingershire.uk/wp-content/plugins/mp3-jplayer/css/images/t50l.png') repeat-x left bottom; }
+ul.dark-mjp li 	{ background:url('https://www.carolsingershire.uk/wp-content/plugins/mp3-jplayer/css/images/t50g.png') repeat-x left bottom; }
 li.mjp-li-last { background-image:none !important; }
 
 
 /* ===== posbar grads ===== */
 .poscolMI_mp3j.soften-mjp {
-	background-image:		url('/wp-content/plugins/mp3-jplayer/css/images/posbar-lighten.png');
+	background-image:		url('https://www.carolsingershire.uk/wp-content/plugins/mp3-jplayer/css/images/posbar-lighten.png');
 	background-position:	right top;
 	background-repeat:		repeat-y;
 }
 .poscolMI_mp3j.softenT-mjp {
-	background-image:		url('/wp-content/plugins/mp3-jplayer/css/images/posbar-pipe.png');
+	background-image:		url('https://www.carolsingershire.uk/wp-content/plugins/mp3-jplayer/css/images/posbar-pipe.png');
 	background-position:	right -5px;
 	background-repeat:		repeat-x;
 }
 .poscolMI_mp3j.darken-mjp {
-	background-image:		url('/wp-content/plugins/mp3-jplayer/css/images/posbar-darken.png');
+	background-image:		url('https://www.carolsingershire.uk/wp-content/plugins/mp3-jplayer/css/images/posbar-darken.png');
 	background-position:	right top;
 	background-repeat:		repeat-y;
 }
@@ -561,7 +561,7 @@ div.wrap-mjp.noplayer { display:none; }
 .fullbars div.jp-play-time { right:95px; bottom:45px; text-align:right; z-index:90; }  
 .fullbars div.statusMI { right:12px; left:auto; bottom:43px; padding:2px 0 2px 0; width:80px; height:auto; background:none; z-index:90; }
 .fullbars span.mjp-playing, .fullbars span.mjp-paused, .fullbars span.mjp-ready, .fullbars span.mjp-stopped, .fullbars span.mjp-connecting, .fullbars span.mjp-buffering { display:inline; }
-.fullbars span.mp3-finding { position:relative; padding:0 4px 0 4px; margin:0; background:url('/wp-content/plugins/mp3-jplayer/css/images/pulse.gif') repeat; border-radius:2px; -moz-border-radius:2px; -webkit-border-radius:2px; overflow:hidden; }
+.fullbars span.mp3-finding { position:relative; padding:0 4px 0 4px; margin:0; background:url('https://www.carolsingershire.uk/wp-content/plugins/mp3-jplayer/css/images/pulse.gif') repeat; border-radius:2px; -moz-border-radius:2px; -webkit-border-radius:2px; overflow:hidden; }
 .fullbars span.mp3-tint { position:relative; padding:0 4px 0 4px; margin:0 3px 0 -8px; border-radius:2px; -moz-border-radius:2px; -webkit-border-radius:2px; overflow:hidden; }
 .fullbars div.mjp-volwrap { bottom:auto; top:0px; right:0px; -webkit-border-bottom-left-radius:2px; -moz-border-radius-bottomleft:2px; border-bottom-left-radius: 2px; }
 
