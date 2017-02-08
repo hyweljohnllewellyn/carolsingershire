@@ -35,3 +35,36 @@ background:#e77776; color:#ddd;
     float: right;
     margin-right: 8%;
 }
+
+
+/* HEADER */
+#header {width:22%; float:left; padding:20px 2% 30px; background:#333 url('https://www.carolsingershire.uk/wp-content/themes/darkelements/images/back.png'); border-bottom-left-radius:50px; border-bottom-right-radius:50px; opacity:0.9; filter:alpha(opacity=90);}
+
+
+/* HEADER LOGO */
+#header .logo {width:100%; text-align:center; padding:0 0 20px;}
+#header .logo h2 {padding:5px 0; font-size:1.25em;}
+#header .logo img {padding:10px 0 0;}
+
+
+/* HEADER IMAGE */
+#header-image {width:68%; float:right; margin:0 0 20px; padding:20px 2% 15px; background:#333 url('https://www.carolsingershire.uk/wp-content/themes/darkelements/images/back.png'); opacity:0.9; filter:alpha(opacity=90);}
+#header-image .header-img {width:100%; height:auto;}
+
+
+/* HEADER IMAGE MOBILE */
+#header-image-mobile {display:none;}
+
+
+/* HEADER MENU */
+.nav-head {width:100%; clear:both; float:left; padding:5px 0;}
+.nav-head select {display:none;}
+.nav-head ul {padding:0; margin:0; z-index:999; list-style:none;}
+.nav-head ul li {list-style-type: none; position:relative; padding:0; margin:0;}
+.nav-head ul li a {text-decoration:none; padding:5px 0; display:inline-block; width:100%; border-bottom:1px solid #444;}
+.nav-head .current_page_item > a, .nav-head .current_page_parent > a {color:#e77776;}
+
+
+/* HEADER SUBMENU */
+.nav-head ul ul a {width:95%; margin:0 0 0 5%;}
+.nav-head ul ul ul a {width:90%; margin:0 0 0 10%;}
