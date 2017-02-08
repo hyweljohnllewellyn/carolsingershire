@@ -10,7 +10,7 @@
 <channel>
 	<title>carolsingershire_wp &#8211; The Carol Singers Hire UK</title>
 	<atom:link href="http://localhost/author/carolsingershire_wp/feed/" rel="self" type="application/rss+xml" />
-	<link>https://www.carolsingershire.uk/</link>
+	<link>/</link>
 	<description>- The very best and most genuine professional carol singers in the UK</description>
 	<lastBuildDate>Tue, 07 Feb 2017 16:43:01 +0000</lastBuildDate>
 	<language>en-GB</language>
@@ -19,55 +19,55 @@
 	<generator>https://wordpress.org/?v=4.7.2</generator>
 
 <image>
-	<url>https://www.carolsingershire.uk/wp-content/uploads/2016/04/cropped-Carol_Singers_Christmas_evening_3-32x32.jpg</url>
+	<url>/wp-content/uploads/2016/04/cropped-Carol_Singers_Christmas_evening_3-32x32.jpg</url>
 	<title>carolsingershire_wp &#8211; The Carol Singers Hire UK</title>
-	<link>https://www.carolsingershire.uk/</link>
+	<link>/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Festive A Cappella Quartet &#8211; City Social, London</title>
-		<link>https://www.carolsingershire.uk/reviews/festive-a-cappella-quartet-city-social-london/</link>
-		<comments>https://www.carolsingershire.uk/reviews/festive-a-cappella-quartet-city-social-london/#respond</comments>
+		<link>/reviews/festive-a-cappella-quartet-city-social-london/</link>
+		<comments>/reviews/festive-a-cappella-quartet-city-social-london/#respond</comments>
 		<pubDate>Wed, 14 Dec 2016 09:56:24 +0000</pubDate>
 		<dc:creator><![CDATA[carolsingershire_wp]]></dc:creator>
 				<category><![CDATA[reviews]]></category>
 
-		<guid isPermaLink="false">https://www.carolsingershire.uk/?p=95</guid>
+		<guid isPermaLink="false">/?p=95</guid>
 		<description><![CDATA[&#8220;Just to give you a brief feedback on Friday &#8211; it was excellent! The quarter were really good , great songs and fantastic delivery &#8211; all our guests enjoyed. Thanks!&#8221; Brian, CEO Survitec Group]]></description>
-				<content:encoded><![CDATA[<p><a href="https://www.carolsingershire.uk/demo/attachment/carol_singers_christmas_evening_8/" rel="attachment wp-att-11"><img class="alignright wp-image-11" src="https://www.carolsingershire.uk/wp-content/uploads/2016/04/Carol_Singers_Christmas_evening_8-300x236.jpg" alt="Excellent Carol Singers for hire UK" width="180" height="141" /></a>&#8220;Just to give you a brief feedback on Friday &#8211; it was excellent! The quarter were really good , great songs and fantastic delivery &#8211; all our guests enjoyed. Thanks!&#8221; Brian, CEO Survitec Group</p>
+				<content:encoded><![CDATA[<p><a href="/demo/attachment/carol_singers_christmas_evening_8/" rel="attachment wp-att-11"><img class="alignright wp-image-11" src="/wp-content/uploads/2016/04/Carol_Singers_Christmas_evening_8-300x236.jpg" alt="Excellent Carol Singers for hire UK" width="180" height="141" /></a>&#8220;Just to give you a brief feedback on Friday &#8211; it was excellent! The quarter were really good , great songs and fantastic delivery &#8211; all our guests enjoyed. Thanks!&#8221; Brian, CEO Survitec Group</p>
 ]]></content:encoded>
-			<wfw:commentRss>https://www.carolsingershire.uk/reviews/festive-a-cappella-quartet-city-social-london/feed/</wfw:commentRss>
+			<wfw:commentRss>/reviews/festive-a-cappella-quartet-city-social-london/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
 		<title>Eight Voice Festive Male A Cappella Choir &#8211; Claridges</title>
-		<link>https://www.carolsingershire.uk/reviews/eight-voice-festive-male-a-cappella-choir-claridges-december-2015/</link>
-		<comments>https://www.carolsingershire.uk/reviews/eight-voice-festive-male-a-cappella-choir-claridges-december-2015/#respond</comments>
+		<link>/reviews/eight-voice-festive-male-a-cappella-choir-claridges-december-2015/</link>
+		<comments>/reviews/eight-voice-festive-male-a-cappella-choir-claridges-december-2015/#respond</comments>
 		<pubDate>Thu, 10 Dec 2015 09:45:58 +0000</pubDate>
 		<dc:creator><![CDATA[carolsingershire_wp]]></dc:creator>
 				<category><![CDATA[reviews]]></category>
 
-		<guid isPermaLink="false">https://www.carolsingershire.uk/?p=63</guid>
+		<guid isPermaLink="false">/?p=63</guid>
 		<description><![CDATA[Yet again a triumph! The boys are a wonderful team, they really look as though they’re enjoying themselves, and it’s quite infectious! Please thank them from all of us, the client was very happy….&#8221; Ann, Event Planners]]></description>
 				<content:encoded><![CDATA[<p>Yet again a triumph! The boys are a wonderful team, they really look as though they’re enjoying themselves, and it’s quite infectious! Please thank them from all of us, the client was very happy….&#8221; Ann, <a href="http://www.eventplanners.co.uk/" target="_blank">Event Planners</a></p>
 ]]></content:encoded>
-			<wfw:commentRss>https://www.carolsingershire.uk/reviews/eight-voice-festive-male-a-cappella-choir-claridges-december-2015/feed/</wfw:commentRss>
+			<wfw:commentRss>/reviews/eight-voice-festive-male-a-cappella-choir-claridges-december-2015/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 		<item>
 		<title>Carol Singing Quartet &#8211; The Dorchester</title>
-		<link>https://www.carolsingershire.uk/reviews/carol-singing-quartet-eland-cables-december-2015/</link>
-		<comments>https://www.carolsingershire.uk/reviews/carol-singing-quartet-eland-cables-december-2015/#respond</comments>
+		<link>/reviews/carol-singing-quartet-eland-cables-december-2015/</link>
+		<comments>/reviews/carol-singing-quartet-eland-cables-december-2015/#respond</comments>
 		<pubDate>Wed, 09 Dec 2015 08:50:48 +0000</pubDate>
 		<dc:creator><![CDATA[carolsingershire_wp]]></dc:creator>
 				<category><![CDATA[reviews]]></category>
 
-		<guid isPermaLink="false">https://www.carolsingershire.uk/?p=59</guid>
+		<guid isPermaLink="false">/?p=59</guid>
 		<description><![CDATA[&#8220;Thank you for Friday – it was brilliant! I meant to follow up earlier in the week but typically it’s been manic. Everyone thoroughly enjoyed your performance… and then carried on getting merry throughout the rest of the evening.&#8221; Deborah, Eland Cables]]></description>
 				<content:encoded><![CDATA[<p>&#8220;Thank you for Friday – it was brilliant! I meant to follow up earlier in the week but typically it’s been manic. Everyone thoroughly enjoyed your performance… and then carried on getting merry throughout the rest of the evening.&#8221; Deborah, <a href="http://www.elandcables.com/" target="_blank">Eland Cables</a></p>
 ]]></content:encoded>
-			<wfw:commentRss>https://www.carolsingershire.uk/reviews/carol-singing-quartet-eland-cables-december-2015/feed/</wfw:commentRss>
+			<wfw:commentRss>/reviews/carol-singing-quartet-eland-cables-december-2015/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 	</channel>
