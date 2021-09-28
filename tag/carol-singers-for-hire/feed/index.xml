@@ -9,14 +9,16 @@
 
 <channel>
 	<title>carol singers for hire &#8211; The Carol Singers Hire UK</title>
-	<atom:link href="http://localhost/tag/carol-singers-for-hire/feed/" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.carolsingershire.uk/tag/carol-singers-for-hire/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.carolsingershire.uk/</link>
 	<description>- The very best and most genuine professional carol singers in the UK</description>
-	<lastBuildDate>Thu, 20 Feb 2020 08:04:19 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 05 Feb 2020 13:57:19 +0000</lastBuildDate>
 	<language>en-GB</language>
-	<sy:updatePeriod>hourly</sy:updatePeriod>
-	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=4.7.16</generator>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.1</generator>
 
 <image>
 	<url>https://www.carolsingershire.uk/wp-content/uploads/2016/04/cropped-Carol_Singers_Christmas_evening_3-32x32.jpg</url>
@@ -28,20 +30,24 @@
 	<item>
 		<title>Carol Singing Trio &#8211; Microsoft Research Ltd, Cambridge</title>
 		<link>https://www.carolsingershire.uk/reviews/carol-singing-trio-microsoft-research-ltd-cambridge/</link>
-		<comments>https://www.carolsingershire.uk/reviews/carol-singing-trio-microsoft-research-ltd-cambridge/#respond</comments>
-		<pubDate>Fri, 14 Dec 2018 13:51:46 +0000</pubDate>
+					<comments>https://www.carolsingershire.uk/reviews/carol-singing-trio-microsoft-research-ltd-cambridge/#respond</comments>
+		
 		<dc:creator><![CDATA[carolsingershire_wp]]></dc:creator>
+		<pubDate>Fri, 14 Dec 2018 13:51:46 +0000</pubDate>
 				<category><![CDATA[reviews]]></category>
 		<category><![CDATA[carol singer trio hire]]></category>
 		<category><![CDATA[carol singers for hire]]></category>
 		<category><![CDATA[corporate party singers hire]]></category>
-
 		<guid isPermaLink="false">https://www.carolsingershire.uk/?p=161</guid>
-		<description><![CDATA[&#8220;Hi Tom, Thank you so much for your support with the Christmas party. The event was a great success and having Christmas carollers was a great addition to this year. We hope to work with you again next year.  Many thanks&#8221; Emma, Microsoft Research Ltd]]></description>
-				<content:encoded><![CDATA[<p>&#8220;Hi Tom, Thank you so much for your support with the Christmas party. The event was a great success and having Christmas carollers was a great addition to this year. We hope to work with you again next year.  Many thanks&#8221; Emma, Microsoft Research Ltd</p>
+
+					<description><![CDATA[&#8220;Hi Tom, Thank you so much for your support with the Christmas party. The event was a great success and having Christmas carollers was a great addition to this year. We hope to work with you again next year.  Many thanks&#8221; Emma, Microsoft Research Ltd]]></description>
+										<content:encoded><![CDATA[<p>&#8220;Hi Tom, Thank you so much for your support with the Christmas party. The event was a great success and having Christmas carollers was a great addition to this year. We hope to work with you again next year.  Many thanks&#8221; Emma, Microsoft Research Ltd</p>
 ]]></content:encoded>
-			<wfw:commentRss>https://www.carolsingershire.uk/reviews/carol-singing-trio-microsoft-research-ltd-cambridge/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+					
+					<wfw:commentRss>https://www.carolsingershire.uk/reviews/carol-singing-trio-microsoft-research-ltd-cambridge/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
 	</channel>
 </rss>

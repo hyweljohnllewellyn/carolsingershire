@@ -9,14 +9,16 @@
 
 <channel>
 	<title>carol singers hire uk &#8211; The Carol Singers Hire UK</title>
-	<atom:link href="http://localhost/tag/carol-singers-hire-uk/feed/" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.carolsingershire.uk/tag/carol-singers-hire-uk/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.carolsingershire.uk/</link>
 	<description>- The very best and most genuine professional carol singers in the UK</description>
-	<lastBuildDate>Thu, 20 Feb 2020 08:04:19 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 05 Feb 2020 14:25:37 +0000</lastBuildDate>
 	<language>en-GB</language>
-	<sy:updatePeriod>hourly</sy:updatePeriod>
-	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=4.7.16</generator>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.1</generator>
 
 <image>
 	<url>https://www.carolsingershire.uk/wp-content/uploads/2016/04/cropped-Carol_Singers_Christmas_evening_3-32x32.jpg</url>
@@ -28,20 +30,24 @@
 	<item>
 		<title>Carol Singing Trio &#8211; The Landmark Hotel</title>
 		<link>https://www.carolsingershire.uk/reviews/carol-singing-trio-the-landmark-hotel/</link>
-		<comments>https://www.carolsingershire.uk/reviews/carol-singing-trio-the-landmark-hotel/#respond</comments>
-		<pubDate>Thu, 05 Dec 2019 14:05:03 +0000</pubDate>
+					<comments>https://www.carolsingershire.uk/reviews/carol-singing-trio-the-landmark-hotel/#respond</comments>
+		
 		<dc:creator><![CDATA[carolsingershire_wp]]></dc:creator>
+		<pubDate>Thu, 05 Dec 2019 14:05:03 +0000</pubDate>
 				<category><![CDATA[reviews]]></category>
 		<category><![CDATA[book carol singers uk]]></category>
 		<category><![CDATA[carol singers hire uk]]></category>
 		<category><![CDATA[carolling trio hire]]></category>
-
 		<guid isPermaLink="false">https://www.carolsingershire.uk/?p=165</guid>
-		<description><![CDATA[&#8220;The carol singers were wonderful &#8211; THANK YOU!&#8221; Lauren]]></description>
-				<content:encoded><![CDATA[<p>&#8220;The carol singers were wonderful &#8211; THANK YOU!&#8221; Lauren<img class="alignleft wp-image-166" src="https://www.carolsingershire.uk/wp-content/uploads/2020/02/carol-singers-hire-uk-trio-193x300.png" alt="carol singers hire uk trio" width="167" height="256" /></p>
+
+					<description><![CDATA[&#8220;The carol singers were wonderful &#8211; THANK YOU!&#8221; Lauren]]></description>
+										<content:encoded><![CDATA[<p>&#8220;The carol singers were wonderful &#8211; THANK YOU!&#8221; Lauren<img loading="lazy" class="alignleft wp-image-166" src="https://www.carolsingershire.uk/wp-content/uploads/2020/02/carol-singers-hire-uk-trio-193x300.png" alt="carol singers hire uk trio" width="167" height="256" /></p>
 ]]></content:encoded>
-			<wfw:commentRss>https://www.carolsingershire.uk/reviews/carol-singing-trio-the-landmark-hotel/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
+					
+					<wfw:commentRss>https://www.carolsingershire.uk/reviews/carol-singing-trio-the-landmark-hotel/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
 	</channel>
 </rss>

@@ -6,13 +6,16 @@
 	
 	>
 <channel>
-	<title>Comments on: Eight Voice Festive Male A Cappella Choir &#8211; Claridges</title>
-	<atom:link href="http://localhost/reviews/eight-voice-festive-male-a-cappella-choir-claridges-december-2015/feed/" rel="self" type="application/rss+xml" />
+	<title>
+	Comments on: Eight Voice Festive Male A Cappella Choir &#8211; Claridges	</title>
+	<atom:link href="https://www.carolsingershire.uk/reviews/eight-voice-festive-male-a-cappella-choir-claridges-december-2015/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.carolsingershire.uk/reviews/eight-voice-festive-male-a-cappella-choir-claridges-december-2015/</link>
 	<description>- The very best and most genuine professional carol singers in the UK</description>
-	<lastBuildDate>Thu, 20 Feb 2020 08:04:31 +0000</lastBuildDate>
-	<sy:updatePeriod>hourly</sy:updatePeriod>
-	<sy:updateFrequency>1</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=4.7.16</generator>
+	<lastBuildDate>Sun, 08 May 2016 19:40:17 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.1</generator>
 </channel>
 </rss>
