@@ -12,13 +12,13 @@
 	<atom:link href="https://www.carolsingershire.uk/tag/book-carol-singers-uk/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.carolsingershire.uk/</link>
 	<description>- The very best and most genuine professional carol singers in the UK</description>
-	<lastBuildDate>Wed, 05 Feb 2020 14:25:37 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 26 May 2022 19:00:11 +0000</lastBuildDate>
 	<language>en-GB</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.8.1</generator>
+	<generator>https://wordpress.org/?v=5.8.4</generator>
 
 <image>
 	<url>https://www.carolsingershire.uk/wp-content/uploads/2016/04/cropped-Carol_Singers_Christmas_evening_3-32x32.jpg</url>
@@ -28,6 +28,29 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Carol Singing Trio &#8211; St James Quay, Norwich</title>
+		<link>https://www.carolsingershire.uk/reviews/carol-singing-trio-st-james-quay-norwich/</link>
+					<comments>https://www.carolsingershire.uk/reviews/carol-singing-trio-st-james-quay-norwich/#respond</comments>
+		
+		<dc:creator><![CDATA[carolsingershire_wp]]></dc:creator>
+		<pubDate>Sat, 18 Dec 2021 16:55:00 +0000</pubDate>
+				<category><![CDATA[reviews]]></category>
+		<category><![CDATA[book carol singers uk]]></category>
+		<category><![CDATA[carol singers hire uk]]></category>
+		<category><![CDATA[christmas carollers hire]]></category>
+		<guid isPermaLink="false">https://www.carolsingershire.uk/?p=201</guid>
+
+					<description><![CDATA["Thank you so very much for helping us out this weekend. The feedback was amazing. Please do pass on our thanks to the three of them – it was very well received and performed at a top level."]]></description>
+										<content:encoded><![CDATA[
+<p><em><strong>&#8220;Thank you so very much for helping us out this weekend. The feedback was amazing. Please do pass on our thanks to the three of them – it was very well received and performed at a top level.&#8221;</strong></em></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.carolsingershire.uk/reviews/carol-singing-trio-st-james-quay-norwich/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
 		<title>Carol Singing Trio &#8211; The Landmark Hotel</title>
 		<link>https://www.carolsingershire.uk/reviews/carol-singing-trio-the-landmark-hotel/</link>
 					<comments>https://www.carolsingershire.uk/reviews/carol-singing-trio-the-landmark-hotel/#respond</comments>
